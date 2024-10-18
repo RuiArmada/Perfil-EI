@@ -1,0 +1,58 @@
+{
+  "title": "Cornell box, static",
+  "model": "models/cornell_box_VI.obj",
+  "width": 640,
+  "height": 360,
+  "samplesPerPixel": 16,
+  "frames": [
+    {
+      "frame": 0,
+      "camera": {
+        "fov": {
+          "x": 1.247197551,
+          "y": 0.6283185307
+        },
+        "up": {
+          "x": 0,
+          "y": -1,
+          "z": 0
+        },
+        "position": {
+          "x": 200,
+          "y": 200,
+          "z": -800
+        },
+        "lookingAt": {
+          "x": 250,
+          "y": 250,
+          "z": 250
+        }
+      }
+    }
+  ],
+  "lights": [
+    {
+      "type": "point",
+      "pos": {
+        "x": 248,
+        "y": 548,
+        "z": 182
+      },
+      "color": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5
+      },
+      "power": 10000000.0
+    },
+    {
+      "type": "ambient",
+      "color": {
+        "r": 0.1,
+        "g": 0.1,
+        "b": 0.1
+      }
+    }
+  ],
+  "output": "image.png"
+}
