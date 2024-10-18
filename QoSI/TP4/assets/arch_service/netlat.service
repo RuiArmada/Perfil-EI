@@ -1,0 +1,13 @@
+# Auto-startup service for the NETLAT project
+
+[Unit]
+Description=NETLAT Network Latency Tool
+After=network.target
+
+[Service]
+User=root
+WorkingDirectory=/home/miguel/qosi/disQoSi/
+ExecStart=sh run.sh
+
+[Install]
+WantedBy=multi-user.target

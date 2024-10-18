@@ -1,0 +1,428 @@
+{
+  "device": {
+    "TYPE": "Group",
+    "INCLUDE": ["id", "type", "beaconRate", "nSensors", "nActuators", "dateAndTime", "upTime", "lastTimeUpdated", "operationalStatus", "reset"],
+    "NOTIFICATION": ["id", "type", "nSensors", "nActuators", "dateAndTime", "upTime", "lastTimeUpdated", "operationalStatus"],
+    "NOTIFICATION-RATE": "beaconRate",
+    "DESCRIPTION": "Simple list of objects, where each object represents a characteristic from a domotics device.",
+    "IID": "1"
+  },
+  "device.id": {
+    "TYPE": "String",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Tag identifying the device (the MacAddress, for example).",
+    "IID": "1.1",
+    "VALUE": "Device_001"
+  },
+  "device.type": {
+    "TYPE": "String",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Text description for the type of device (\"Lights & A/C Conditioning\", for example).",
+    "IID": "1.2",
+    "VALUE": "Lights & A/C Conditioning"
+  },
+  "device.beaconRate": {
+    "TYPE": "Integer",
+    "ACCESS": "read-write",
+    "DESCRIPTION": "Frequency rate in seconds for issuing a notification message with information from this group that acts as a beacon broadcasting message to all the managers in the LAN. If value is set to zero the notifications for this group are halted.",
+    "IID": "1.3",
+    "VALUE": 10
+  },
+  "device.nSensors": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Number of sensors implemented in the device and present in the sensors Table.",
+    "IID": "1.4",
+    "VALUE": 2
+  },
+  "device.nActuators": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Number of actuators implemented in the device and present in the actuators Table.",
+    "IID": "1.5",
+    "VALUE": 2
+  },
+  "device.dateAndTime": {
+    "TYPE": "Timestamp",
+    "ACCESS": "read-write",
+    "DESCRIPTION": "System date and time setup in the device.",
+    "IID": "1.6",
+    "VALUE": "20:07:2023:14:30:00:000"
+  },
+  "device.upTime": {
+    "TYPE": "Timestamp",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "For how long the device is working since last boot/reset.",
+    "IID": "1.7",
+    "VALUE": "0:0:0:0:0"
+  },
+  "device.lastTimeUpdated": {
+    "TYPE": "Timestamp",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Date and time of the last update of any object in the device L-MIBvS.",
+    "IID": "1.8",
+    "VALUE": "0:0:0:0:0"
+  },
+  "device.operationalStatus": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "The operational state of the device, where the value 0 corresponds to a standby operational state, 1 corresponds to a normal operational state and 2 or greater corresponds to an non-operational error state.",
+    "IID": "1.9",
+    "VALUE": 1
+  },
+  "device.reset": {
+    "TYPE": "Integer",
+    "ACCESS": "read-write",
+    "DESCRIPTION": "Value 0 means no reset and value 1 means a reset procedure must be done.",
+    "IID": "1.10",
+    "VALUE": 0
+  },
+  "sensors": {
+    "TYPE": "Table",
+    "INCLUDE": ["id", "type", "status", "minValue", "maxValue", "lastSamplingTime"],
+    "DESCRIPTION": "Table with information for all types of sensors connected to the device.",
+    "IID": "2"
+  },
+  "sensors.id": {
+    "TYPE": "String",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Tag identifying the sensor (the MacAddress, for example).",
+    "IID": "2.1",
+    "VALUES": ["Sensor_001", "Sensor_002"]
+  },
+  "sensors.type": {
+    "TYPE": "String",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Text description for the type of sensor (\"Light\", for example).",
+    "IID": "2.2",
+    "VALUES": ["Light", "Temperature"]
+  },
+  "sensors.status": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Last value sampled by the sensor in percentage of the interval between minValue and maxValue.",
+    "IID": "2.3",
+    "VALUES": [50, 22]
+  },
+  "sensors.minValue": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Minimum value possible for the sampling values of the sensor.",
+    "IID": "2.4",
+    "VALUES": [0, 0]
+  },
+  "sensors.maxValue": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Maximum value possible for the sampling values of the sensor.",
+    "IID": "2.5",
+    "VALUES": [100, 50]
+  },
+  "sensors.lastSamplingTime": {
+    "TYPE": "Timestamp",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Time elapsed since the last sample was obtained by the sensor.",
+    "IID": "2.6",
+    "VALUES": ["0:0:0:0:0", "0:0:0:0:0"]
+  },
+  "actuators": {
+    "TYPE": "Table",
+    "INCLUDE": ["id", "type", "status", "minValue", "maxValue", "lastControlTime"],
+    "DESCRIPTION": "Table with objects to control all actuators connected to the device.",
+    "IID": "3"
+  },
+  "actuators.id": {
+    "TYPE": "String",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Tag identifying the actuator (the MacAddress, for example).",
+    "IID": "3.1",
+    "VALUES": ["Actuator_001", "Actuator_002"]
+  },
+  "actuators.type": {
+    "TYPE": "String",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Text description for the type of actuator (\"Temperature\", for example).",
+    "IID": "3.2",
+    "VALUES": ["Light", "Temperature"]
+  },
+  "actuators.status": {
+    "TYPE": "Integer",
+    "ACCESS": "read-write",
+    "DESCRIPTION": "Configuration value set for the actuator (value must be between minValue and maxValue).",
+    "IID": "3.3",
+    "VALUES": [0, 22]
+  },
+  "actuators.minValue": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Minimum value possible for the configuration of the actuator.",
+    "IID": "3.4",
+    "VALUES": [0, 0]
+  },
+  "actuators.maxValue": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Maximum value possible for the configuration of the actuator.",
+    "IID": "3.5",
+    "VALUES": [100, 50]
+  },
+  "actuators.lastControlTime": {
+    "TYPE": "Timestamp",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Date and time when the last configuration/control operation was executed.",
+    "IID": "3.6",
+    "VALUES": ["0:0:0:0:0", "0:0:0:0:0"]
+  },
+  "device_2": {
+    "TYPE": "Group",
+    "INCLUDE": ["id", "type", "beaconRate", "nSensors", "nActuators", "dateAndTime", "upTime", "lastTimeUpdated", "operationalStatus", "reset"],
+    "NOTIFICATION": ["id", "type", "nSensors", "nActuators", "dateAndTime", "upTime", "lastTimeUpdated", "operationalStatus"],
+    "NOTIFICATION-RATE": "beaconRate",
+    "DESCRIPTION": "Simple list of objects, where each object represents a characteristic from a domotics device.",
+    "IID": "4"
+  },
+  "device_2.id": {
+    "TYPE": "String",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Tag identifying the device (the MacAddress, for example).",
+    "IID": "4.1",
+    "VALUE": "Device_002"
+  },
+  "device_2.type": {
+    "TYPE": "String",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Text description for the type of device (\"Heating System\", for example).",
+    "IID": "4.2",
+    "VALUE": "Heating System"
+  },
+  "device_2.beaconRate": {
+    "TYPE": "Integer",
+    "ACCESS": "read-write",
+    "DESCRIPTION": "Frequency rate in seconds for issuing a notification message with information from this group that acts as a beacon broadcasting message to all the managers in the LAN. If value is set to zero the notifications for this group are halted.",
+    "IID": "4.3",
+    "VALUE": 15
+  },
+  "device_2.nSensors": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Number of sensors implemented in the device and present in the sensors Table.",
+    "IID": "4.4",
+    "VALUE": 3
+  },
+  "device_2.nActuators": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Number of actuators implemented in the device and present in the actuators Table.",
+    "IID": "4.5",
+    "VALUE": 1
+  },
+  "device_2.dateAndTime": {
+    "TYPE": "Timestamp",
+    "ACCESS": "read-write",
+    "DESCRIPTION": "System date and time setup in the device.",
+    "IID": "4.6",
+    "VALUE": "21:07:2024:12:00:00:000"
+  },
+  "device_2.upTime": {
+    "TYPE": "Timestamp",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "For how long the device is working since last boot/reset.",
+    "IID": "4.7",
+    "VALUE": "0:1:0:0:0"
+  },
+  "device_2.lastTimeUpdated": {
+    "TYPE": "Timestamp",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Date and time of the last update of any object in the device L-MIBvS.",
+    "IID": "4.8",
+    "VALUE": "0:1:0:0:0"
+  },
+  "device_2.operationalStatus": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "The operational state of the device, where the value 0 corresponds to a standby operational state, 1 corresponds to a normal operational state and 2 or greater corresponds to an non-operational error state.",
+    "IID": "4.9",
+    "VALUE": 1
+  },
+  "device_2.reset": {
+    "TYPE": "Integer",
+    "ACCESS": "read-write",
+    "DESCRIPTION": "Value 0 means no reset and value 1 means a reset procedure must be done.",
+    "IID": "4.10",
+    "VALUE": 0
+  },
+  "sensors_2": {
+    "TYPE": "Table",
+    "INCLUDE": ["id", "type", "status", "minValue", "maxValue", "lastSamplingTime"],
+    "DESCRIPTION": "Table with information for all types of sensors connected to the device.",
+    "IID": "5"
+  },
+  "sensors_2.id": {
+    "TYPE": "String",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Tag identifying the sensor (the MacAddress, for example).",
+    "IID": "5.1",
+    "VALUES": ["Sensor_003", "Sensor_004", "Sensor_005"]
+  },
+  "sensors_2.type": {
+    "TYPE": "String",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Text description for the type of sensor (\"Temperature\", for example).",
+    "IID": "5.2",
+    "VALUES": ["Temperature", "Humidity", "CO2"]
+  },
+  "sensors_2.status": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Last value sampled by the sensor in percentage of the interval between minValue and maxValue.",
+    "IID": "5.3",
+    "VALUES": [25, 45, 400]
+  },
+  "sensors_2.minValue": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Minimum value possible for the sampling values of the sensor.",
+    "IID": "5.4",
+    "VALUES": [0, 0, 0]
+  },
+  "sensors_2.maxValue": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Maximum value possible for the sampling values of the sensor.",
+    "IID": "5.5",
+    "VALUES": [100, 100, 1000]
+  },
+  "sensors_2.lastSamplingTime": {
+    "TYPE": "Timestamp",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Time elapsed since the last sample was obtained by the sensor.",
+    "IID": "5.6",
+    "VALUES": ["0:0:0:0:1", "0:0:0:0:1", "0:0:0:0:1"]
+  },
+  "actuators_2": {
+    "TYPE": "Table",
+    "INCLUDE": ["id", "type", "status", "minValue", "maxValue", "lastControlTime"],
+    "DESCRIPTION": "Table with objects to control all actuators connected to the device.",
+    "IID": "6"
+  },
+  "actuators_2.id": {
+    "TYPE": "String",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Tag identifying the actuator (the MacAddress, for example).",
+    "IID": "6.1",
+    "VALUES": ["Actuator_003"]
+  },
+  "actuators_2.type": {
+    "TYPE": "String",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Text description for the type of actuator (\"Valve\", for example).",
+    "IID": "6.2",
+    "VALUES": ["Valve"]
+  },
+  "actuators_2.status": {
+    "TYPE": "Integer",
+    "ACCESS": "read-write",
+    "DESCRIPTION": "Configuration value set for the actuator (value must be between minValue and maxValue).",
+    "IID": "6.3",
+    "VALUES": [0]
+  },
+  "actuators_2.minValue": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Minimum value possible for the configuration of the actuator.",
+    "IID": "6.4",
+    "VALUES": [0]
+  },
+  "actuators_2.maxValue": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Maximum value possible for the configuration of the actuator.",
+    "IID": "6.5",
+    "VALUES": [100]
+  },
+  "actuators_2.lastControlTime": {
+    "TYPE": "Timestamp",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Date and time when the last configuration/control operation was executed.",
+    "IID": "6.6",
+    "VALUES": ["0:0:0:0:1"]
+  },
+  "device_3": {
+    "TYPE": "Group",
+    "INCLUDE": ["id", "type", "beaconRate", "nSensors", "nActuators", "dateAndTime", "upTime", "lastTimeUpdated", "operationalStatus", "reset"],
+    "NOTIFICATION": ["id", "type", "nSensors", "nActuators", "dateAndTime", "upTime", "lastTimeUpdated", "operationalStatus"],
+    "NOTIFICATION-RATE": "beaconRate",
+    "DESCRIPTION": "Simple list of objects, where each object represents a characteristic from a domotics device.",
+    "IID": "7"
+  },
+  "device_3.id": {
+    "TYPE": "String",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Tag identifying the device (the MacAddress, for example).",
+    "IID": "7.1",
+    "VALUE": "Device_003"
+  },
+  "device_3.type": {
+    "TYPE": "String",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Text description for the type of device (\"Security System\", for example).",
+    "IID": "7.2",
+    "VALUE": "Security System"
+  },
+  "device_3.beaconRate": {
+    "TYPE": "Integer",
+    "ACCESS": "read-write",
+    "DESCRIPTION": "Frequency rate in seconds for issuing a notification message with information from this group that acts as a beacon broadcasting message to all the managers in the LAN. If value is set to zero the notifications for this group are halted.",
+    "IID": "7.3",
+    "VALUE": 20
+  },
+  "device_3.nSensors": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Number of sensors implemented in the device and present in the sensors Table.",
+    "IID": "7.4",
+    "VALUE": 4
+  },
+  "device_3.nActuators": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Number of actuators implemented in the device and present in the actuators Table.",
+    "IID": "7.5",
+    "VALUE": 1
+  },
+  "device_3.dateAndTime": {
+    "TYPE": "Timestamp",
+    "ACCESS": "read-write",
+    "DESCRIPTION": "System date and time setup in the device.",
+    "IID": "7.6",
+    "VALUE": "22:07:2024:16:00:00:000"
+  },
+  "device_3.upTime": {
+    "TYPE": "Timestamp",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "For how long the device is working since last boot/reset.",
+    "IID": "7.7",
+    "VALUE": "0:2:0:0:0"
+  },
+  "device_3.lastTimeUpdated": {
+    "TYPE": "Timestamp",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "Date and time of the last update of any object in the device L-MIBvS.",
+    "IID": "7.8",
+    "VALUE": "0:2:0:0:0"
+  },
+  "device_3.operationalStatus": {
+    "TYPE": "Integer",
+    "ACCESS": "read-only",
+    "DESCRIPTION": "The operational state of the device, where the value 0 corresponds to a standby operational state, 1 corresponds to a normal operational state and 2 or greater corresponds to an non-operational error state.",
+    "IID": "7.9",
+    "VALUE": 1
+  },
+  "device_3.reset": {
+    "TYPE": "Integer",
+    "ACCESS": "read-write",
+    "DESCRIPTION": "Value 0 means no reset and value 1 means a reset procedure must be done.",
+    "IID": "7.10",
+    "VALUE": 0
+  }
+}

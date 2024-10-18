@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Flask + Plotly Dashboard</title>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    </head>
+    <body>
+        
+        <img src="{{ url_for('static', filename='discord_logo.png') }}" alt="Discord Logo" class="discord-logo">
+        <h1 class="content">DISCORD LATENCY - TP 3 - GRUPO 6</h1>
+        <div>
+            <a id="ver-dashboard-btn" class="content" href="/dashboard">Latency by API</a>
+            <a id="ver-dashboard-btn" class="content" href="/latency_dashboard_dns">Latency by Network (DNS)</a>
+            <a id="ver-dashboard-btn" class="content" href="/latency_dashboard_rtp">Latency by Network (RTP)</a>
+            <a id="ver-dashboard-btn" class="content" href="/latency_dashboard_http">Latency by Network (HTTP)</a>
+            <a id="ver-dashboard-btn" class="content" href="/latency_dashboard_sip">Latency by Network (SIP)</a>
+
+        </div>
+    </body>
+    
+    
+</html>

@@ -1,0 +1,92 @@
+[
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714997544815,
+        "recieved_at": 1714997547615,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3076
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714997606862,
+        "recieved_at": 1714997609668,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3087
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714997668879,
+        "recieved_at": 1714997671656,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3059
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714997730974,
+        "recieved_at": 1714997733739,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3053
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714997793044,
+        "recieved_at": 1714997795866,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3109
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714998892609,
+        "recieved_at": 1714998921657,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 29326
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714998954687,
+        "recieved_at": 1714999012468,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 58076
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714999016724,
+        "recieved_at": 1714999105339,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 88900
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714999078691,
+        "recieved_at": 1714999194421,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 116016
+    }
+]

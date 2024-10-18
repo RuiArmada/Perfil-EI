@@ -1,0 +1,1572 @@
+[
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714588538332,
+        "recieved_at": 1714588544647,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6585
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714588603355,
+        "recieved_at": 1714588610218,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7148
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714588668375,
+        "recieved_at": 1714588670822,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2735
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714588733336,
+        "recieved_at": 1714588740993,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7935
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714588798290,
+        "recieved_at": 1714588805285,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7263
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714588863204,
+        "recieved_at": 1714588867181,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4244
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714588928185,
+        "recieved_at": 1714588930587,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2689
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714588993202,
+        "recieved_at": 1714588995632,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2692
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714589058142,
+        "recieved_at": 1714589060603,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2724
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714589123186,
+        "recieved_at": 1714589128672,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5756
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714589188204,
+        "recieved_at": 1714589193321,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5413
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714589253263,
+        "recieved_at": 1714589261408,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8426
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714589318209,
+        "recieved_at": 1714589335420,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 17492
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714589383205,
+        "recieved_at": 1714589393425,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 10506
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714589448199,
+        "recieved_at": 1714589454174,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6262
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714589513287,
+        "recieved_at": 1714589518579,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5576
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714589578334,
+        "recieved_at": 1714589580777,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2707
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714589643306,
+        "recieved_at": 1714589645708,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2673
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714589709324,
+        "recieved_at": 1714589714900,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5858
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714589774258,
+        "recieved_at": 1714589776639,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2668
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714589839224,
+        "recieved_at": 1714589841686,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2746
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714589904196,
+        "recieved_at": 1714589906614,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2687
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714589969166,
+        "recieved_at": 1714589971609,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2731
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714590034220,
+        "recieved_at": 1714590036660,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2727
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714590099222,
+        "recieved_at": 1714590105198,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6251
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714590164217,
+        "recieved_at": 1714590166628,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2701
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714590229227,
+        "recieved_at": 1714590237596,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8648
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714590294367,
+        "recieved_at": 1714590299070,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4965
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714590359308,
+        "recieved_at": 1714590361702,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2672
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714590424341,
+        "recieved_at": 1714590426751,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2696
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714599818368,
+        "recieved_at": 1714599820774,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2693
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714599883206,
+        "recieved_at": 1714599885710,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2792
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714599948022,
+        "recieved_at": 1714599954116,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6376
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714600012881,
+        "recieved_at": 1714600017196,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4604
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714600077704,
+        "recieved_at": 1714600081618,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4177
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714600142581,
+        "recieved_at": 1714600149566,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7272
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714600207431,
+        "recieved_at": 1714600212034,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4888
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714600272263,
+        "recieved_at": 1714600275074,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3108
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714600337111,
+        "recieved_at": 1714600339544,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2721
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714600401945,
+        "recieved_at": 1714600404390,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2729
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714600466778,
+        "recieved_at": 1714600469225,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2735
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714600531613,
+        "recieved_at": 1714600534086,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2755
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714600596451,
+        "recieved_at": 1714600598892,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2732
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714600661280,
+        "recieved_at": 1714600668824,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7832
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714600726105,
+        "recieved_at": 1714600729625,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3809
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714600790952,
+        "recieved_at": 1714600793415,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2749
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714600855761,
+        "recieved_at": 1714600858193,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2721
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714600920641,
+        "recieved_at": 1714600929065,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8684
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714600985468,
+        "recieved_at": 1714600990195,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5008
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714601050305,
+        "recieved_at": 1714601052715,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2672
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714601115104,
+        "recieved_at": 1714601117569,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2729
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714601179926,
+        "recieved_at": 1714601182361,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2718
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714601244753,
+        "recieved_at": 1714601247231,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2757
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714601309598,
+        "recieved_at": 1714601312050,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2720
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714601374436,
+        "recieved_at": 1714601376892,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2720
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714601439236,
+        "recieved_at": 1714601441633,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2686
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714601504088,
+        "recieved_at": 1714601506504,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2682
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714601568909,
+        "recieved_at": 1714601571334,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2705
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714601633762,
+        "recieved_at": 1714601638153,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4672
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714601698583,
+        "recieved_at": 1714601703833,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5541
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714601763404,
+        "recieved_at": 1714601765863,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2750
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714601828245,
+        "recieved_at": 1714601835915,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7956
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714601893066,
+        "recieved_at": 1714601898266,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5485
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714601957881,
+        "recieved_at": 1714601966547,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8953
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714602022699,
+        "recieved_at": 1714602028954,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6537
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714602087538,
+        "recieved_at": 1714602091410,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4156
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714602152420,
+        "recieved_at": 1714602154841,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2702
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714602217273,
+        "recieved_at": 1714602219730,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2718
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714602282095,
+        "recieved_at": 1714602284583,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2771
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714602346931,
+        "recieved_at": 1714602349375,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2723
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714602411748,
+        "recieved_at": 1714602414181,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2716
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714602476602,
+        "recieved_at": 1714602479085,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2748
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714602541473,
+        "recieved_at": 1714602543877,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2682
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714602606334,
+        "recieved_at": 1714602608744,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2695
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714602671187,
+        "recieved_at": 1714602678052,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7127
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714602735968,
+        "recieved_at": 1714602739004,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3317
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714602800775,
+        "recieved_at": 1714602803232,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2737
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714602865608,
+        "recieved_at": 1714602868052,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2705
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714602930478,
+        "recieved_at": 1714602932920,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2726
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714602995326,
+        "recieved_at": 1714603001309,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6265
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714603060335,
+        "recieved_at": 1714603062768,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2715
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714603125128,
+        "recieved_at": 1714603127586,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2740
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714603189938,
+        "recieved_at": 1714603192412,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2752
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714603254767,
+        "recieved_at": 1714603257226,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2718
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714603319610,
+        "recieved_at": 1714603322036,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2709
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714603384458,
+        "recieved_at": 1714603386918,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2744
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714603449286,
+        "recieved_at": 1714603451723,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2722
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714603514122,
+        "recieved_at": 1714603521000,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7165
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714603578979,
+        "recieved_at": 1714603583479,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4795
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714603643820,
+        "recieved_at": 1714603651854,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8311
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714603708644,
+        "recieved_at": 1714603714205,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5830
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714603773476,
+        "recieved_at": 1714603776501,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3288
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714603838301,
+        "recieved_at": 1714603840716,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2698
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714603903148,
+        "recieved_at": 1714603905576,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2727
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714603967984,
+        "recieved_at": 1714603975964,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8250
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714604032834,
+        "recieved_at": 1714604036903,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4349
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714604097715,
+        "recieved_at": 1714604100125,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2696
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714604162573,
+        "recieved_at": 1714604165013,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2720
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714604227416,
+        "recieved_at": 1714604229809,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2676
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714604292259,
+        "recieved_at": 1714604294698,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2694
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714604357114,
+        "recieved_at": 1714604359522,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2687
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714604421947,
+        "recieved_at": 1714604424430,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2741
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714604486779,
+        "recieved_at": 1714604489199,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2703
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714604551715,
+        "recieved_at": 1714604559661,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8237
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714604616584,
+        "recieved_at": 1714604619025,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2710
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714604681388,
+        "recieved_at": 1714604688808,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7706
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714604746226,
+        "recieved_at": 1714604749516,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3546
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714604811104,
+        "recieved_at": 1714604813479,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2646
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714604875970,
+        "recieved_at": 1714604878385,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2680
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714604940820,
+        "recieved_at": 1714604943270,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2720
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714605005664,
+        "recieved_at": 1714605012138,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6755
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714605070518,
+        "recieved_at": 1714605073087,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2856
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714605135436,
+        "recieved_at": 1714605143751,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8603
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714605200309,
+        "recieved_at": 1714605206093,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6069
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714605265136,
+        "recieved_at": 1714605268513,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3648
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714605329953,
+        "recieved_at": 1714605332396,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2727
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714605394762,
+        "recieved_at": 1714605397168,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2692
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714605459594,
+        "recieved_at": 1714605462065,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2750
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714605524438,
+        "recieved_at": 1714605526845,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2671
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714605589262,
+        "recieved_at": 1714605591713,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2720
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714605654100,
+        "recieved_at": 1714605662305,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8484
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714605718910,
+        "recieved_at": 1714605723233,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4599
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714605783737,
+        "recieved_at": 1714605786163,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2707
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714605848555,
+        "recieved_at": 1714605850980,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2688
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714605913371,
+        "recieved_at": 1714605915830,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2716
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714605978241,
+        "recieved_at": 1714605986603,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8625
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714606043144,
+        "recieved_at": 1714606047959,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5095
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714606108072,
+        "recieved_at": 1714606110477,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2691
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714606172937,
+        "recieved_at": 1714606175356,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2709
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714606237797,
+        "recieved_at": 1714606240260,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2752
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714606302813,
+        "recieved_at": 1714606305230,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2722
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714606367823,
+        "recieved_at": 1714606370216,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2668
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714606432877,
+        "recieved_at": 1714606435288,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2705
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714606497790,
+        "recieved_at": 1714606500241,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2734
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714606562693,
+        "recieved_at": 1714606565144,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2732
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714606627784,
+        "recieved_at": 1714606636023,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8500
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714606693013,
+        "recieved_at": 1714606698958,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6226
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714606759533,
+        "recieved_at": 1714606771247,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 11976
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714606825603,
+        "recieved_at": 1714606833614,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8298
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714606890718,
+        "recieved_at": 1714606896044,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5607
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714606955762,
+        "recieved_at": 1714606965131,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 9638
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714607020824,
+        "recieved_at": 1714607028806,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8264
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714607085842,
+        "recieved_at": 1714607089921,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4361
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714607150948,
+        "recieved_at": 1714607153292,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2623
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714607216095,
+        "recieved_at": 1714607218474,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2665
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714607280963,
+        "recieved_at": 1714607283362,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2682
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714607345810,
+        "recieved_at": 1714607348241,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2713
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714607410748,
+        "recieved_at": 1714607413161,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2692
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714607475617,
+        "recieved_at": 1714607478020,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2670
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714607540538,
+        "recieved_at": 1714607548646,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8388
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714607605452,
+        "recieved_at": 1714607609408,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4244
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714607670343,
+        "recieved_at": 1714607672783,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2725
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714607735364,
+        "recieved_at": 1714607737749,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2670
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714607800338,
+        "recieved_at": 1714607802721,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2662
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714607865371,
+        "recieved_at": 1714607867808,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2726
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714607930419,
+        "recieved_at": 1714607937046,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6904
+    },
+    {
+        "from_": "netlat-aSVeYA-be-syd1-ubuntu-23-10-x64",
+        "sent_at": 1714607995569,
+        "recieved_at": 1714607997964,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2673
+    }
+]

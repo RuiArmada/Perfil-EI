@@ -1,0 +1,2512 @@
+[
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714997647137,
+        "recieved_at": 1714997650026,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3171
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714997708260,
+        "recieved_at": 1714997711137,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3160
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714997769404,
+        "recieved_at": 1714997772271,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3150
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714997830475,
+        "recieved_at": 1714997833416,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3232
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714997891570,
+        "recieved_at": 1714997894484,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3188
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714997952639,
+        "recieved_at": 1714997962080,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 9725
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998013800,
+        "recieved_at": 1714998018646,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5126
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998074866,
+        "recieved_at": 1714998077750,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3169
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998135936,
+        "recieved_at": 1714998138952,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3301
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998197045,
+        "recieved_at": 1714998200785,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4028
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998807724,
+        "recieved_at": 1714998810680,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3245
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998868728,
+        "recieved_at": 1714998885927,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 17481
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998898463,
+        "recieved_at": 1714998927535,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 29337
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998929808,
+        "recieved_at": 1714998980782,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 51256
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998959548,
+        "recieved_at": 1714999020357,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 61098
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998990900,
+        "recieved_at": 1714999069902,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 79291
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999020618,
+        "recieved_at": 1714999111285,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 90950
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999051974,
+        "recieved_at": 1714999158847,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 107159
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999081733,
+        "recieved_at": 1714999206297,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 124825
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999113041,
+        "recieved_at": 1714999253628,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 140864
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999142814,
+        "recieved_at": 1714999279432,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 136910
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999174109,
+        "recieved_at": 1714999336690,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 162870
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999203896,
+        "recieved_at": 1714999366255,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 162646
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999235186,
+        "recieved_at": 1714999423466,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 188548
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999264954,
+        "recieved_at": 1714999451277,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 186612
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999296260,
+        "recieved_at": 1714999508321,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 212348
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999326023,
+        "recieved_at": 1714999538383,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 212651
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999357395,
+        "recieved_at": 1714999597347,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 240238
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999387109,
+        "recieved_at": 1714999627295,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 240470
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999418466,
+        "recieved_at": 1714999682801,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264600
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999448208,
+        "recieved_at": 1714999696606,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248685
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999479615,
+        "recieved_at": 1714999756141,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 276804
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999540646,
+        "recieved_at": 1714999809259,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 268897
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999570384,
+        "recieved_at": 1714999833024,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 262931
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999631476,
+        "recieved_at": 1714999874464,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 243271
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999662799,
+        "recieved_at": 1714999927614,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265101
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999692551,
+        "recieved_at": 1714999939549,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247274
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999723874,
+        "recieved_at": 1714999998695,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 275105
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999784952,
+        "recieved_at": 1715000036294,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251615
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999814702,
+        "recieved_at": 1715000075621,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 261197
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999875751,
+        "recieved_at": 1715000140392,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264915
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999936824,
+        "recieved_at": 1715000187853,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251317
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999968106,
+        "recieved_at": 1715000241003,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 273190
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000029177,
+        "recieved_at": 1715000292236,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 263342
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000058957,
+        "recieved_at": 1715000321824,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 263168
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000120023,
+        "recieved_at": 1715000367329,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247593
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000151312,
+        "recieved_at": 1715000420654,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 269630
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000212367,
+        "recieved_at": 1715000479898,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 267811
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000242160,
+        "recieved_at": 1715000501968,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260098
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000273477,
+        "recieved_at": 1715000525695,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252484
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000303224,
+        "recieved_at": 1715000549847,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246907
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000364319,
+        "recieved_at": 1715000603081,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 239044
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000395652,
+        "recieved_at": 1715000652573,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257196
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000456726,
+        "recieved_at": 1715000709664,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253223
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000486461,
+        "recieved_at": 1715000749385,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 263214
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000517804,
+        "recieved_at": 1715000769123,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251613
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000547526,
+        "recieved_at": 1715000804510,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257269
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000608608,
+        "recieved_at": 1715000853746,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 245433
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000640027,
+        "recieved_at": 1715000893054,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253309
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000701078,
+        "recieved_at": 1715000938231,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 237443
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000730756,
+        "recieved_at": 1715000987524,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257056
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000791838,
+        "recieved_at": 1715001056985,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265438
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000823257,
+        "recieved_at": 1715001094257,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 271261
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000852929,
+        "recieved_at": 1715001102133,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249484
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000884336,
+        "recieved_at": 1715001143523,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 259479
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000913990,
+        "recieved_at": 1715001178981,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265275
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000945431,
+        "recieved_at": 1715001192842,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247703
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000975067,
+        "recieved_at": 1715001228326,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253559
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001036162,
+        "recieved_at": 1715001297773,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 261895
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001067613,
+        "recieved_at": 1715001333132,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265803
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001097246,
+        "recieved_at": 1715001348889,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251918
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001128717,
+        "recieved_at": 1715001394613,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 266157
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001158327,
+        "recieved_at": 1715001418235,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260190
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001189791,
+        "recieved_at": 1715001432028,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 242546
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001219353,
+        "recieved_at": 1715001461567,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 242494
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001280487,
+        "recieved_at": 1715001532755,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252557
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001311947,
+        "recieved_at": 1715001580891,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 269223
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001373009,
+        "recieved_at": 1715001638195,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265474
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001402634,
+        "recieved_at": 1715001663834,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 261485
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001434072,
+        "recieved_at": 1715001681423,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247646
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001463683,
+        "recieved_at": 1715001711235,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247823
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001495144,
+        "recieved_at": 1715001756535,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 261681
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001524751,
+        "recieved_at": 1715001770419,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 245953
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001556226,
+        "recieved_at": 1715001812065,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256128
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001617299,
+        "recieved_at": 1715001851761,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 234748
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001646865,
+        "recieved_at": 1715001891204,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 244611
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001678373,
+        "recieved_at": 1715001928618,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 250524
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001707940,
+        "recieved_at": 1715001970243,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 262566
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001739467,
+        "recieved_at": 1715002003780,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264593
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001769004,
+        "recieved_at": 1715002017713,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248993
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001800520,
+        "recieved_at": 1715002047467,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247231
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001861589,
+        "recieved_at": 1715002096673,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 235359
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001891110,
+        "recieved_at": 1715002144143,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253316
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001952204,
+        "recieved_at": 1715002211476,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 259537
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001983725,
+        "recieved_at": 1715002256824,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 273385
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002013290,
+        "recieved_at": 1715002262867,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249839
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002044771,
+        "recieved_at": 1715002305112,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260630
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002074340,
+        "recieved_at": 1715002342825,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 268765
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002105835,
+        "recieved_at": 1715002352723,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247175
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002135410,
+        "recieved_at": 1715002382229,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247107
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002196476,
+        "recieved_at": 1715002451467,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 255276
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002227932,
+        "recieved_at": 1715002507337,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 279716
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002289006,
+        "recieved_at": 1715002572018,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 283305
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002318622,
+        "recieved_at": 1715002597547,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 279249
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002350065,
+        "recieved_at": 1715002610311,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260552
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002379695,
+        "recieved_at": 1715002640000,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260586
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002440770,
+        "recieved_at": 1715002699303,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 258815
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002472203,
+        "recieved_at": 1715002758575,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 286661
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002533252,
+        "recieved_at": 1715002798159,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265186
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002562922,
+        "recieved_at": 1715002823895,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 261261
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002623974,
+        "recieved_at": 1715002869326,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 245641
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002655389,
+        "recieved_at": 1715002906872,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251768
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002716461,
+        "recieved_at": 1715002968303,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252134
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002746101,
+        "recieved_at": 1715003005796,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 259965
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002777537,
+        "recieved_at": 1715003025526,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248281
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002807191,
+        "recieved_at": 1715003072939,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 266034
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002868252,
+        "recieved_at": 1715003110335,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 242366
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002899688,
+        "recieved_at": 1715003157846,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 258441
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002960746,
+        "recieved_at": 1715003203484,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 243023
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002990431,
+        "recieved_at": 1715003244996,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254857
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003051494,
+        "recieved_at": 1715003313499,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 262277
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003082875,
+        "recieved_at": 1715003350694,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 268080
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003112554,
+        "recieved_at": 1715003360434,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248169
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003143938,
+        "recieved_at": 1715003420694,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 277018
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003205006,
+        "recieved_at": 1715003450416,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 245700
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003234681,
+        "recieved_at": 1715003474097,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 239703
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003295756,
+        "recieved_at": 1715003543302,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247831
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003327153,
+        "recieved_at": 1715003595887,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 269013
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003356819,
+        "recieved_at": 1715003605512,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248994
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003388221,
+        "recieved_at": 1715003660177,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 272228
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003449297,
+        "recieved_at": 1715003703386,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254381
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003478941,
+        "recieved_at": 1715003730670,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252018
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003540009,
+        "recieved_at": 1715003788966,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249237
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003571434,
+        "recieved_at": 1715003840118,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 268966
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003601074,
+        "recieved_at": 1715003855849,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 255057
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003632480,
+        "recieved_at": 1715003902984,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 270785
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003693543,
+        "recieved_at": 1715003948096,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254808
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003723211,
+        "recieved_at": 1715003989114,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 266188
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003784296,
+        "recieved_at": 1715004042222,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 258210
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003815693,
+        "recieved_at": 1715004071651,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256217
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003876774,
+        "recieved_at": 1715004126333,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249848
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003906410,
+        "recieved_at": 1715004167465,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 261335
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003937840,
+        "recieved_at": 1715004189044,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251473
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003967454,
+        "recieved_at": 1715004231978,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264801
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003998904,
+        "recieved_at": 1715004255374,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256754
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004028583,
+        "recieved_at": 1715004288322,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260008
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004059981,
+        "recieved_at": 1715004313589,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253898
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004121048,
+        "recieved_at": 1715004355425,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 234634
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004150722,
+        "recieved_at": 1715004390418,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 239976
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004182124,
+        "recieved_at": 1715004425937,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 244083
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004211769,
+        "recieved_at": 1715004461391,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249886
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004243173,
+        "recieved_at": 1715004501883,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 258984
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004272843,
+        "recieved_at": 1715004524908,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252337
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004304257,
+        "recieved_at": 1715004564305,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260335
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004365318,
+        "recieved_at": 1715004607570,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 242544
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004394988,
+        "recieved_at": 1715004632972,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 238271
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004426402,
+        "recieved_at": 1715004670781,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 244626
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004456054,
+        "recieved_at": 1715004697714,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 241950
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004487483,
+        "recieved_at": 1715004744900,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257670
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004517128,
+        "recieved_at": 1715004764398,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247560
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004548547,
+        "recieved_at": 1715004803268,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 255008
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004609628,
+        "recieved_at": 1715004844415,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 235076
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004639328,
+        "recieved_at": 1715004885674,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246613
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004670707,
+        "recieved_at": 1715004917326,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246901
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004700403,
+        "recieved_at": 1715004956944,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256829
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004731810,
+        "recieved_at": 1715004992324,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260788
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004761590,
+        "recieved_at": 1715005010143,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248838
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004792890,
+        "recieved_at": 1715005043621,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 250990
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004853956,
+        "recieved_at": 1715005088995,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 235320
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004883748,
+        "recieved_at": 1715005130166,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246711
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004915028,
+        "recieved_at": 1715005159754,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 244991
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004944810,
+        "recieved_at": 1715005200819,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256281
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004976086,
+        "recieved_at": 1715005224382,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248562
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005005822,
+        "recieved_at": 1715005265581,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260025
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005037154,
+        "recieved_at": 1715005289158,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252259
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005066897,
+        "recieved_at": 1715005320648,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254037
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005098224,
+        "recieved_at": 1715005330499,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 232554
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005127959,
+        "recieved_at": 1715005360102,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 232420
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005159283,
+        "recieved_at": 1715005399506,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 240504
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005189030,
+        "recieved_at": 1715005430812,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 242065
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005220355,
+        "recieved_at": 1715005466534,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246460
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005250088,
+        "recieved_at": 1715005502243,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252422
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005281423,
+        "recieved_at": 1715005537684,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256545
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005311172,
+        "recieved_at": 1715005571114,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260221
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005342514,
+        "recieved_at": 1715005590673,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248449
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005372451,
+        "recieved_at": 1715005620112,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247922
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005433509,
+        "recieved_at": 1715005679016,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 245799
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005464635,
+        "recieved_at": 1715005714680,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 250317
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005494573,
+        "recieved_at": 1715005746272,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251969
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005525700,
+        "recieved_at": 1715005787013,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 261599
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005555676,
+        "recieved_at": 1715005814487,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 259116
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005586756,
+        "recieved_at": 1715005828167,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 241685
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005616747,
+        "recieved_at": 1715005865756,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249265
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005647833,
+        "recieved_at": 1715005899148,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251600
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005677828,
+        "recieved_at": 1715005918847,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 241291
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005708871,
+        "recieved_at": 1715005952463,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 243869
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005769941,
+        "recieved_at": 1715006005447,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 235771
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005799951,
+        "recieved_at": 1715006052778,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253092
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005831003,
+        "recieved_at": 1715006076483,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 245772
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005861011,
+        "recieved_at": 1715006119619,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 258874
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005892060,
+        "recieved_at": 1715006147193,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 255416
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005922095,
+        "recieved_at": 1715006182483,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260667
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005953120,
+        "recieved_at": 1715006211947,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 259108
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006014188,
+        "recieved_at": 1715006251432,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 237526
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006044198,
+        "recieved_at": 1715006290695,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246776
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006075740,
+        "recieved_at": 1715006318246,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 242794
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006105250,
+        "recieved_at": 1715006353920,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248946
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006136809,
+        "recieved_at": 1715006383698,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247172
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006166355,
+        "recieved_at": 1715006419300,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253206
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006197883,
+        "recieved_at": 1715006454848,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257237
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006258929,
+        "recieved_at": 1715006498293,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 239655
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006288519,
+        "recieved_at": 1715006539860,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251623
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006319997,
+        "recieved_at": 1715006569361,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249650
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006349575,
+        "recieved_at": 1715006606904,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257608
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006381069,
+        "recieved_at": 1715006638506,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257718
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006410644,
+        "recieved_at": 1715006664153,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253788
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006442139,
+        "recieved_at": 1715006699590,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257729
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006471715,
+        "recieved_at": 1715006734929,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 263494
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006503202,
+        "recieved_at": 1715006750687,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247776
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006532792,
+        "recieved_at": 1715006792224,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 259709
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006564244,
+        "recieved_at": 1715006813901,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249940
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006593860,
+        "recieved_at": 1715006847339,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253758
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006625315,
+        "recieved_at": 1715006868831,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 243797
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006654931,
+        "recieved_at": 1715006908485,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253837
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006686363,
+        "recieved_at": 1715006928118,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 242029
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006716006,
+        "recieved_at": 1715006975631,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 259893
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006747436,
+        "recieved_at": 1715006987472,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 240319
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006777097,
+        "recieved_at": 1715007028862,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252061
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006808503,
+        "recieved_at": 1715007058434,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 250197
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006838165,
+        "recieved_at": 1715007094075,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256192
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006869560,
+        "recieved_at": 1715007123654,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254373
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006930622,
+        "recieved_at": 1715007164853,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 234514
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006960297,
+        "recieved_at": 1715007212274,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252264
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006991693,
+        "recieved_at": 1715007236059,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 244648
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007021368,
+        "recieved_at": 1715007277603,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256520
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007052791,
+        "recieved_at": 1715007307274,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254766
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007082437,
+        "recieved_at": 1715007330968,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248814
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007113872,
+        "recieved_at": 1715007372419,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 258832
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007174941,
+        "recieved_at": 1715007417781,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 243123
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007204577,
+        "recieved_at": 1715007453308,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249038
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007236000,
+        "recieved_at": 1715007489072,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253353
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007265642,
+        "recieved_at": 1715007518873,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253509
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007297067,
+        "recieved_at": 1715007554350,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257571
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007326699,
+        "recieved_at": 1715007581814,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 255395
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007358129,
+        "recieved_at": 1715007611406,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253558
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007419203,
+        "recieved_at": 1715007664779,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 245858
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007448842,
+        "recieved_at": 1715007700335,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251772
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007509912,
+        "recieved_at": 1715007760145,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 250519
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007541332,
+        "recieved_at": 1715007791356,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 250387
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007570993,
+        "recieved_at": 1715007837865,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 267257
+    },
+    {
+        "from_": "netlat-ytxlCQ-whoa-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007602417,
+        "recieved_at": 1715007863648,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 261641
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "from_": "netlat-XBGE0A-the-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714588268289,
+        "recieved_at": 1714588271044,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3021
+    },
+    {
+        "from_": "netlat-XBGE0A-the-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714588330365,
+        "recieved_at": 1714588333164,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3084
+    },
+    {
+        "from_": "netlat-XBGE0A-the-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714588392405,
+        "recieved_at": 1714588395201,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3080
+    }
+]

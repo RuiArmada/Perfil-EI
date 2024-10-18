@@ -1,0 +1,2502 @@
+[
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714997390002,
+        "recieved_at": 1714997395555,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5816
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714997450941,
+        "recieved_at": 1714997453898,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3227
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714997511868,
+        "recieved_at": 1714997514801,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3212
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714997572784,
+        "recieved_at": 1714997575710,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3227
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714997633785,
+        "recieved_at": 1714997636689,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3190
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714997694725,
+        "recieved_at": 1714997697581,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3143
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714997755664,
+        "recieved_at": 1714997758603,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3203
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714997816596,
+        "recieved_at": 1714997822164,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5862
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714997877547,
+        "recieved_at": 1714997883224,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5952
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714997938485,
+        "recieved_at": 1714997950221,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 12005
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714997999406,
+        "recieved_at": 1714998005261,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6116
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998060335,
+        "recieved_at": 1714998066585,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6540
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998121312,
+        "recieved_at": 1714998128248,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7219
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998182360,
+        "recieved_at": 1714998194805,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 12735
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998847401,
+        "recieved_at": 1714998862271,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 15160
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998852751,
+        "recieved_at": 1714998874059,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 21593
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998908344,
+        "recieved_at": 1714998951126,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 43064
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998913704,
+        "recieved_at": 1714998964879,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 51449
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998969280,
+        "recieved_at": 1714999046277,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 77285
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714998974625,
+        "recieved_at": 1714999058159,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 83815
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999030197,
+        "recieved_at": 1714999132961,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 103046
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999035593,
+        "recieved_at": 1714999152826,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 117516
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999091131,
+        "recieved_at": 1714999220149,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 129295
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999096534,
+        "recieved_at": 1714999241828,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 145585
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999152065,
+        "recieved_at": 1714999303186,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 151387
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999157480,
+        "recieved_at": 1714999328725,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 171528
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999212983,
+        "recieved_at": 1714999389816,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 177115
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999218399,
+        "recieved_at": 1714999413564,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 195447
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999273931,
+        "recieved_at": 1714999473060,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 199412
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999279320,
+        "recieved_at": 1714999500432,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 221377
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999334844,
+        "recieved_at": 1714999550192,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 215631
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999340257,
+        "recieved_at": 1714999571687,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 231727
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999395754,
+        "recieved_at": 1714999639185,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 243719
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999401176,
+        "recieved_at": 1714999651130,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 250233
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999456697,
+        "recieved_at": 1714999714458,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 258048
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999462090,
+        "recieved_at": 1714999726472,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264665
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999523038,
+        "recieved_at": 1714999773931,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251179
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999578556,
+        "recieved_at": 1714999850670,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 272401
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999639481,
+        "recieved_at": 1714999892170,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252975
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999644888,
+        "recieved_at": 1714999905958,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 261342
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999700421,
+        "recieved_at": 1714999957284,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257145
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999705803,
+        "recieved_at": 1714999973051,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 267531
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999822277,
+        "recieved_at": 1715000087365,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265375
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999883233,
+        "recieved_at": 1715000152467,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 269529
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999888633,
+        "recieved_at": 1715000164190,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 275844
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999944146,
+        "recieved_at": 1715000199685,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 255810
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1714999949554,
+        "recieved_at": 1715000211390,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 262116
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000065990,
+        "recieved_at": 1715000333770,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 268061
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000071464,
+        "recieved_at": 1715000345600,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 274425
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000126911,
+        "recieved_at": 1715000391060,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264429
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000132396,
+        "recieved_at": 1715000402880,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 270761
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000187845,
+        "recieved_at": 1715000454146,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 266593
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000193316,
+        "recieved_at": 1715000466096,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 273062
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000309917,
+        "recieved_at": 1715000561709,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252073
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000315411,
+        "recieved_at": 1715000573530,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 258402
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000370926,
+        "recieved_at": 1715000613068,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 242416
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000376335,
+        "recieved_at": 1715000627024,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 250970
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000437278,
+        "recieved_at": 1715000692015,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 255022
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000492795,
+        "recieved_at": 1715000759225,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 266717
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000553731,
+        "recieved_at": 1715000810403,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256956
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000559148,
+        "recieved_at": 1715000828067,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 269196
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000614655,
+        "recieved_at": 1715000859699,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 245340
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000620091,
+        "recieved_at": 1715000877438,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257635
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000736511,
+        "recieved_at": 1715000993422,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257206
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000741945,
+        "recieved_at": 1715001011485,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 269820
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000797449,
+        "recieved_at": 1715001068724,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 271558
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000802914,
+        "recieved_at": 1715001088368,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 285746
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000858371,
+        "recieved_at": 1715001113960,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 255872
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000863829,
+        "recieved_at": 1715001131737,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 268180
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000980235,
+        "recieved_at": 1715001234216,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254264
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715000985718,
+        "recieved_at": 1715001255966,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 270536
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001041180,
+        "recieved_at": 1715001303634,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 262731
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001046634,
+        "recieved_at": 1715001321363,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 275011
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001102123,
+        "recieved_at": 1715001362745,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260909
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001107565,
+        "recieved_at": 1715001380700,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 273405
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001224017,
+        "recieved_at": 1715001467515,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 243785
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001229445,
+        "recieved_at": 1715001497183,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 268019
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001284961,
+        "recieved_at": 1715001538715,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254036
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001290381,
+        "recieved_at": 1715001556483,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 266399
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001345897,
+        "recieved_at": 1715001596714,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251107
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001351318,
+        "recieved_at": 1715001614455,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 263420
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001406825,
+        "recieved_at": 1715001671675,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265130
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001467773,
+        "recieved_at": 1715001717181,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249687
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001473175,
+        "recieved_at": 1715001732945,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260057
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001528725,
+        "recieved_at": 1715001776341,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247919
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001534131,
+        "recieved_at": 1715001792156,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 258310
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001650613,
+        "recieved_at": 1715001897039,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246716
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001655983,
+        "recieved_at": 1715001910831,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 255131
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001711567,
+        "recieved_at": 1715001976083,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264781
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001716908,
+        "recieved_at": 1715001989883,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 273263
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001772507,
+        "recieved_at": 1715002023748,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251532
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001777843,
+        "recieved_at": 1715002035636,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 258079
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001894390,
+        "recieved_at": 1715002150104,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256025
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001899724,
+        "recieved_at": 1715002165880,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 266427
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001955339,
+        "recieved_at": 1715002221443,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 266389
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715001960671,
+        "recieved_at": 1715002235171,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 274787
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002016280,
+        "recieved_at": 1715002270765,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254765
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002021655,
+        "recieved_at": 1715002286594,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265195
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002138127,
+        "recieved_at": 1715002390162,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252344
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002143594,
+        "recieved_at": 1715002411946,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 268613
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002199098,
+        "recieved_at": 1715002457426,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 258590
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002204589,
+        "recieved_at": 1715002483691,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 279396
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002260022,
+        "recieved_at": 1715002514637,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254914
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002265515,
+        "recieved_at": 1715002527940,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 262755
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002381934,
+        "recieved_at": 1715002649867,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 268213
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002387389,
+        "recieved_at": 1715002663782,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 276647
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002442920,
+        "recieved_at": 1715002707139,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264507
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002448344,
+        "recieved_at": 1715002726791,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 278701
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002564900,
+        "recieved_at": 1715002829837,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265217
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002570224,
+        "recieved_at": 1715002847633,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 277690
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002625842,
+        "recieved_at": 1715002875255,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249691
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002631182,
+        "recieved_at": 1715002895074,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264162
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002692108,
+        "recieved_at": 1715002944620,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252774
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002747717,
+        "recieved_at": 1715003011737,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264304
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002808657,
+        "recieved_at": 1715003078843,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 270470
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002814000,
+        "recieved_at": 1715003090713,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 276981
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002869596,
+        "recieved_at": 1715003116211,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246870
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002874933,
+        "recieved_at": 1715003128288,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253619
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002991466,
+        "recieved_at": 1715003250983,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 259793
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715002996777,
+        "recieved_at": 1715003262754,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 266257
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003052373,
+        "recieved_at": 1715003321414,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 269306
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003057734,
+        "recieved_at": 1715003333122,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 275658
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003113308,
+        "recieved_at": 1715003372164,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 259140
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003118672,
+        "recieved_at": 1715003395330,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 276923
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003235202,
+        "recieved_at": 1715003479995,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 245078
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003240551,
+        "recieved_at": 1715003494066,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253805
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003296138,
+        "recieved_at": 1715003549270,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253398
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003301467,
+        "recieved_at": 1715003560978,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 259799
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003357070,
+        "recieved_at": 1715003611443,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254646
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003362383,
+        "recieved_at": 1715003623086,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260988
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003478949,
+        "recieved_at": 1715003732645,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253971
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003484225,
+        "recieved_at": 1715003746053,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 262092
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003539883,
+        "recieved_at": 1715003787015,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247402
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003545180,
+        "recieved_at": 1715003802817,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257890
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003600796,
+        "recieved_at": 1715003849967,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249463
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003606100,
+        "recieved_at": 1715003869521,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 263712
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003722644,
+        "recieved_at": 1715003983268,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260909
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003727968,
+        "recieved_at": 1715004000921,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 273231
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003783559,
+        "recieved_at": 1715004036301,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253032
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003788918,
+        "recieved_at": 1715004054025,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265388
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003849872,
+        "recieved_at": 1715004103001,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253416
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003905497,
+        "recieved_at": 1715004161587,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256381
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003966420,
+        "recieved_at": 1715004226202,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260056
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715003971777,
+        "recieved_at": 1715004243758,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 272258
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004027365,
+        "recieved_at": 1715004280704,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253610
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004032705,
+        "recieved_at": 1715004301839,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 269428
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004088301,
+        "recieved_at": 1715004337976,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249929
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004149254,
+        "recieved_at": 1715004384518,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 235554
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004154563,
+        "recieved_at": 1715004404338,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 250062
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004210260,
+        "recieved_at": 1715004455412,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 245443
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004215478,
+        "recieved_at": 1715004473127,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257939
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004271203,
+        "recieved_at": 1715004515137,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 244194
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004276413,
+        "recieved_at": 1715004534722,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 258595
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004332145,
+        "recieved_at": 1715004583967,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252094
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004393080,
+        "recieved_at": 1715004627324,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 234523
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004398421,
+        "recieved_at": 1715004641955,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 243786
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004453995,
+        "recieved_at": 1715004691846,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 238133
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004459365,
+        "recieved_at": 1715004707761,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248650
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004514910,
+        "recieved_at": 1715004758511,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 243880
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004520301,
+        "recieved_at": 1715004773722,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253712
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004575826,
+        "recieved_at": 1715004828718,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253173
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004636800,
+        "recieved_at": 1715004879873,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 243361
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004642129,
+        "recieved_at": 1715004893611,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251761
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004697741,
+        "recieved_at": 1715004951000,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253536
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004703055,
+        "recieved_at": 1715004962881,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260076
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004758679,
+        "recieved_at": 1715005004127,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 245742
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004763983,
+        "recieved_at": 1715005016110,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252390
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004819616,
+        "recieved_at": 1715005075168,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 255839
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004880537,
+        "recieved_at": 1715005120312,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 240056
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004885839,
+        "recieved_at": 1715005136081,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 250531
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004941504,
+        "recieved_at": 1715005194864,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253656
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715004946756,
+        "recieved_at": 1715005206695,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260218
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005002499,
+        "recieved_at": 1715005249815,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247601
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005007702,
+        "recieved_at": 1715005271401,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 263981
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005063442,
+        "recieved_at": 1715005312680,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249524
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005124376,
+        "recieved_at": 1715005354181,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 230093
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005129531,
+        "recieved_at": 1715005366009,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 236744
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005185311,
+        "recieved_at": 1715005424947,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 239910
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005190458,
+        "recieved_at": 1715005436830,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246642
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005246300,
+        "recieved_at": 1715005496186,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 250180
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005251398,
+        "recieved_at": 1715005508104,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256993
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005307244,
+        "recieved_at": 1715005561178,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254222
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005368173,
+        "recieved_at": 1715005614182,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246297
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005373277,
+        "recieved_at": 1715005626057,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253063
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005429099,
+        "recieved_at": 1715005667185,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 238370
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005434186,
+        "recieved_at": 1715005684975,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251080
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005490039,
+        "recieved_at": 1715005738281,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248532
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005495097,
+        "recieved_at": 1715005754175,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 259362
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005550959,
+        "recieved_at": 1715005804730,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254030
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005556000,
+        "recieved_at": 1715005820358,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264627
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005611881,
+        "recieved_at": 1715005857935,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246332
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005616917,
+        "recieved_at": 1715005867701,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251053
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005672839,
+        "recieved_at": 1715005910864,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 238294
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005677844,
+        "recieved_at": 1715005920790,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 243242
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005733770,
+        "recieved_at": 1715005982045,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248552
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005738747,
+        "recieved_at": 1715005989835,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251377
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005794677,
+        "recieved_at": 1715006040918,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246524
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005799661,
+        "recieved_at": 1715006046860,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247481
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005855612,
+        "recieved_at": 1715006105822,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 250501
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005860582,
+        "recieved_at": 1715006113755,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253456
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005916550,
+        "recieved_at": 1715006170698,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254446
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005921541,
+        "recieved_at": 1715006176634,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 255355
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715005977484,
+        "recieved_at": 1715006229675,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252477
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006038417,
+        "recieved_at": 1715006271145,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 233000
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006043455,
+        "recieved_at": 1715006280876,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 237699
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006099347,
+        "recieved_at": 1715006341962,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 242895
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006104418,
+        "recieved_at": 1715006347899,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 243803
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006160292,
+        "recieved_at": 1715006407456,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247450
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006165351,
+        "recieved_at": 1715006413412,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248352
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006221231,
+        "recieved_at": 1715006478593,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257639
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006226285,
+        "recieved_at": 1715006484505,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 258510
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006282218,
+        "recieved_at": 1715006527866,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 245931
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006287229,
+        "recieved_at": 1715006533880,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246931
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006343238,
+        "recieved_at": 1715006591078,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248122
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006348211,
+        "recieved_at": 1715006598968,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251049
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006409135,
+        "recieved_at": 1715006658163,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249315
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006465234,
+        "recieved_at": 1715006723142,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 258185
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006470057,
+        "recieved_at": 1715006729084,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 259305
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006526166,
+        "recieved_at": 1715006778366,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252486
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006530987,
+        "recieved_at": 1715006786396,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 255697
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006587081,
+        "recieved_at": 1715006827780,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 240990
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006591912,
+        "recieved_at": 1715006841503,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249879
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006648007,
+        "recieved_at": 1715006898528,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 250809
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006708945,
+        "recieved_at": 1715006959714,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251065
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006713755,
+        "recieved_at": 1715006969731,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256260
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006769857,
+        "recieved_at": 1715007016942,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247354
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006774708,
+        "recieved_at": 1715007022824,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248410
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006830778,
+        "recieved_at": 1715007082018,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251533
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006835655,
+        "recieved_at": 1715007088082,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252710
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006952632,
+        "recieved_at": 1715007188558,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 236205
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715006957546,
+        "recieved_at": 1715007206333,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249063
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007013577,
+        "recieved_at": 1715007253872,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 240577
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007018485,
+        "recieved_at": 1715007261810,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 243585
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007074504,
+        "recieved_at": 1715007319130,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 244919
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007079413,
+        "recieved_at": 1715007325090,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 245960
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007135470,
+        "recieved_at": 1715007390164,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 255000
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007140326,
+        "recieved_at": 1715007396084,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256043
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007196387,
+        "recieved_at": 1715007437460,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 241363
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007201269,
+        "recieved_at": 1715007447344,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246364
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007257311,
+        "recieved_at": 1715007506904,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249884
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007262189,
+        "recieved_at": 1715007512918,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251012
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007318235,
+        "recieved_at": 1715007569913,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 251941
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007323121,
+        "recieved_at": 1715007575893,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253051
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007379161,
+        "recieved_at": 1715007635139,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256274
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007384059,
+        "recieved_at": 1715007643003,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 259221
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007440107,
+        "recieved_at": 1715007688453,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248628
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007444977,
+        "recieved_at": 1715007694447,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249726
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007501065,
+        "recieved_at": 1715007748003,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247227
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007505896,
+        "recieved_at": 1715007754101,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248501
+    },
+    {
+        "from_": "netlat-fTI65Q-stumbled-ams3-ubuntu-23-10-x64",
+        "sent_at": 1715007566841,
+        "recieved_at": 1715007830085,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 263633
+    }
+]

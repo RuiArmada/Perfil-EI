@@ -1,0 +1,102 @@
+[
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714997543543,
+        "recieved_at": 1714997544868,
+        "type_": "HTTP",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 1622
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714997605595,
+        "recieved_at": 1714997606882,
+        "type_": "HTTP",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 1574
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714997667635,
+        "recieved_at": 1714997668949,
+        "type_": "HTTP",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 1588
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714997729663,
+        "recieved_at": 1714997730962,
+        "type_": "HTTP",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 1563
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714997791774,
+        "recieved_at": 1714997793110,
+        "type_": "HTTP",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 1635
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714997853818,
+        "recieved_at": 1714997855126,
+        "type_": "HTTP",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 1575
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714998891301,
+        "recieved_at": 1714998892649,
+        "type_": "HTTP",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 1629
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714998953384,
+        "recieved_at": 1714998954719,
+        "type_": "HTTP",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 1630
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714999015457,
+        "recieved_at": 1714999016766,
+        "type_": "HTTP",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 1559
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714999077472,
+        "recieved_at": 1714999080683,
+        "type_": "HTTP",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3474
+    }
+]

@@ -1,0 +1,10 @@
+channels:
+  category: <id>
+  logs: <id>
+  voice: <id>
+credentials:
+  main: <token_main>
+  server: <token_server>
+  workers: <token_worker>
+guild:
+  id: <id>

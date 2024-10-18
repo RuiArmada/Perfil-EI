@@ -1,0 +1,1572 @@
+[
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714588533662,
+        "recieved_at": 1714588538733,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5360
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714588597980,
+        "recieved_at": 1714588602300,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4609
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714588662306,
+        "recieved_at": 1714588664711,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2685
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714588726654,
+        "recieved_at": 1714588729113,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2741
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714588790898,
+        "recieved_at": 1714588793373,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2772
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714588855143,
+        "recieved_at": 1714588861284,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6428
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714588919399,
+        "recieved_at": 1714588922288,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3172
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714588983689,
+        "recieved_at": 1714588986207,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2802
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714589047999,
+        "recieved_at": 1714589050466,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2747
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714589112483,
+        "recieved_at": 1714589114832,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2625
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714589176848,
+        "recieved_at": 1714589181452,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4887
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714589241132,
+        "recieved_at": 1714589245518,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4668
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714589305389,
+        "recieved_at": 1714589311831,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6713
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714589369746,
+        "recieved_at": 1714589372709,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3249
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714589434077,
+        "recieved_at": 1714589436477,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2684
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714589498432,
+        "recieved_at": 1714589504703,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6561
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714589562805,
+        "recieved_at": 1714589568144,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5628
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714589627085,
+        "recieved_at": 1714589629544,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2741
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714589691425,
+        "recieved_at": 1714589697924,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6774
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714589755727,
+        "recieved_at": 1714589762424,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6974
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714589820079,
+        "recieved_at": 1714589824813,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5009
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714589884412,
+        "recieved_at": 1714589892347,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8216
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714589948786,
+        "recieved_at": 1714589953717,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5212
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714590013121,
+        "recieved_at": 1714590019960,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7119
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714590077482,
+        "recieved_at": 1714590080845,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3648
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714590141797,
+        "recieved_at": 1714590144200,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2689
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714590206073,
+        "recieved_at": 1714590208520,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2737
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714590270478,
+        "recieved_at": 1714590272929,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2741
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714590334835,
+        "recieved_at": 1714590337245,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2679
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714590399502,
+        "recieved_at": 1714590401620,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2404
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714599874175,
+        "recieved_at": 1714599877247,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3360
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714599938475,
+        "recieved_at": 1714599940873,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2660
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714600003011,
+        "recieved_at": 1714600005435,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2710
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714600067389,
+        "recieved_at": 1714600075653,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8555
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714600131727,
+        "recieved_at": 1714600136900,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5456
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714600196440,
+        "recieved_at": 1714600198897,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2740
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714600260826,
+        "recieved_at": 1714600263196,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2649
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714600325307,
+        "recieved_at": 1714600327693,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2667
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714600389606,
+        "recieved_at": 1714600392035,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2691
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714600453926,
+        "recieved_at": 1714600461825,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8169
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714600518249,
+        "recieved_at": 1714600524319,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6359
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714600583219,
+        "recieved_at": 1714600586796,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3840
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714600647495,
+        "recieved_at": 1714600649927,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2712
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714600711826,
+        "recieved_at": 1714600714237,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2701
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714600776143,
+        "recieved_at": 1714600778529,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2671
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714600840462,
+        "recieved_at": 1714600842885,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2711
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714600904828,
+        "recieved_at": 1714600912541,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7967
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714600969117,
+        "recieved_at": 1714600973206,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4377
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714601033439,
+        "recieved_at": 1714601035850,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2691
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714601097746,
+        "recieved_at": 1714601100141,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2679
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714601162036,
+        "recieved_at": 1714601164397,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2624
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714601226414,
+        "recieved_at": 1714601234187,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8056
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714601290689,
+        "recieved_at": 1714601295118,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4720
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714601354967,
+        "recieved_at": 1714601357356,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2667
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714601419307,
+        "recieved_at": 1714601421684,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2655
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714601483639,
+        "recieved_at": 1714601486061,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2705
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714601547968,
+        "recieved_at": 1714601550380,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2700
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714601612299,
+        "recieved_at": 1714601614703,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2695
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714601676625,
+        "recieved_at": 1714601679036,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2697
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714601740876,
+        "recieved_at": 1714601743470,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2883
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714601805214,
+        "recieved_at": 1714601807629,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2683
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714601869593,
+        "recieved_at": 1714601872011,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2698
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714601933935,
+        "recieved_at": 1714601936347,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2694
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714601998223,
+        "recieved_at": 1714602000696,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2738
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714602062539,
+        "recieved_at": 1714602069151,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6902
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714602126868,
+        "recieved_at": 1714602130179,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3594
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714602191138,
+        "recieved_at": 1714602193541,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2667
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714602255418,
+        "recieved_at": 1714602257851,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2716
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714602319749,
+        "recieved_at": 1714602322109,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2639
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714602384062,
+        "recieved_at": 1714602391873,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8101
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714602448421,
+        "recieved_at": 1714602452870,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4733
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714602513272,
+        "recieved_at": 1714602517688,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4704
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714602577585,
+        "recieved_at": 1714602584555,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7239
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714602641949,
+        "recieved_at": 1714602647060,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5403
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714602706233,
+        "recieved_at": 1714602709482,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3520
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714602770521,
+        "recieved_at": 1714602772916,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2659
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714602834800,
+        "recieved_at": 1714602837220,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2703
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714602899091,
+        "recieved_at": 1714602901477,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2671
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714602963386,
+        "recieved_at": 1714602965802,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2706
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714603027795,
+        "recieved_at": 1714603030145,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2637
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714603092061,
+        "recieved_at": 1714603094403,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2629
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714603156347,
+        "recieved_at": 1714603164676,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8607
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714603220705,
+        "recieved_at": 1714603225950,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5534
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714603285014,
+        "recieved_at": 1714603287385,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2654
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714603349371,
+        "recieved_at": 1714603351745,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2655
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714603413753,
+        "recieved_at": 1714603416104,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2646
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714603478048,
+        "recieved_at": 1714603480408,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2649
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714603542337,
+        "recieved_at": 1714603549437,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7392
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714603606637,
+        "recieved_at": 1714603610446,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4075
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714603670943,
+        "recieved_at": 1714603673337,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2682
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714603735304,
+        "recieved_at": 1714603737677,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2665
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714603799660,
+        "recieved_at": 1714603802017,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2637
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714603863955,
+        "recieved_at": 1714603866366,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2671
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714603928254,
+        "recieved_at": 1714603930652,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2666
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714603992583,
+        "recieved_at": 1714603994967,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2668
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714604056882,
+        "recieved_at": 1714604059261,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2671
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714604121109,
+        "recieved_at": 1714604123484,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2657
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714604185487,
+        "recieved_at": 1714604187893,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2687
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714604249789,
+        "recieved_at": 1714604252204,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2706
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714604314091,
+        "recieved_at": 1714604321366,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7561
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714604378400,
+        "recieved_at": 1714604382139,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4027
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714604442698,
+        "recieved_at": 1714604445111,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2681
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714604507045,
+        "recieved_at": 1714604509440,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2664
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714604571307,
+        "recieved_at": 1714604573689,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2671
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714604635698,
+        "recieved_at": 1714604640123,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4716
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714604699951,
+        "recieved_at": 1714604712838,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 13168
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714604764332,
+        "recieved_at": 1714604773989,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 9945
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714604828628,
+        "recieved_at": 1714604834918,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6560
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714604892903,
+        "recieved_at": 1714604896007,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3395
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714604957247,
+        "recieved_at": 1714604960966,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4008
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714605021499,
+        "recieved_at": 1714605024011,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2799
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714605085764,
+        "recieved_at": 1714605088200,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2707
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714605150090,
+        "recieved_at": 1714605152494,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2686
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714605214407,
+        "recieved_at": 1714605216774,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2649
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714605278758,
+        "recieved_at": 1714605281132,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2658
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714605343026,
+        "recieved_at": 1714605345430,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2690
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714605407386,
+        "recieved_at": 1714605409810,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2705
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714605471673,
+        "recieved_at": 1714605479845,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8443
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714605536021,
+        "recieved_at": 1714605540700,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4951
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714605600358,
+        "recieved_at": 1714605603606,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3534
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714605664750,
+        "recieved_at": 1714605668236,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3749
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714605729015,
+        "recieved_at": 1714605731454,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2725
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714605793269,
+        "recieved_at": 1714605795726,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2748
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714605857569,
+        "recieved_at": 1714605865234,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7954
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714605921888,
+        "recieved_at": 1714605927603,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6001
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714605986187,
+        "recieved_at": 1714605992434,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6529
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714606050423,
+        "recieved_at": 1714606053894,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3754
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714606114746,
+        "recieved_at": 1714606117161,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2706
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714606179029,
+        "recieved_at": 1714606181416,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2672
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714606243373,
+        "recieved_at": 1714606246178,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3089
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714606307672,
+        "recieved_at": 1714606311199,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3814
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714606372033,
+        "recieved_at": 1714606376084,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4335
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714606436320,
+        "recieved_at": 1714606441235,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5204
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714606500640,
+        "recieved_at": 1714606506157,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5826
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714606565006,
+        "recieved_at": 1714606571058,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6331
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714606629369,
+        "recieved_at": 1714606641868,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 12776
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714606693644,
+        "recieved_at": 1714606702893,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 9533
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714606757910,
+        "recieved_at": 1714606765347,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7701
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714606822217,
+        "recieved_at": 1714606827770,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5836
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714606886486,
+        "recieved_at": 1714606890103,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3885
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714606950787,
+        "recieved_at": 1714606953186,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2681
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714607015117,
+        "recieved_at": 1714607022891,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8065
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714607079491,
+        "recieved_at": 1714607083942,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4739
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714607143836,
+        "recieved_at": 1714607146237,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2685
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714607208117,
+        "recieved_at": 1714607210538,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2705
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714607272483,
+        "recieved_at": 1714607274856,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2655
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714607336770,
+        "recieved_at": 1714607339192,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2710
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714607401083,
+        "recieved_at": 1714607403477,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2679
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714607465429,
+        "recieved_at": 1714607467804,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2655
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714607529761,
+        "recieved_at": 1714607532207,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2725
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714607594063,
+        "recieved_at": 1714607596451,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2674
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714607658450,
+        "recieved_at": 1714607660865,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2696
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714607722718,
+        "recieved_at": 1714607731096,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8655
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714607787098,
+        "recieved_at": 1714607791963,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5126
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714607851408,
+        "recieved_at": 1714607853815,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2671
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714607915705,
+        "recieved_at": 1714607918110,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2689
+    },
+    {
+        "from_": "netlat-r5SG-g-me-blr1-ubuntu-23-10-x64",
+        "sent_at": 1714607979958,
+        "recieved_at": 1714607982380,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2707
+    }
+]

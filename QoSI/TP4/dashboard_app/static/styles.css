@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #252422; 
+    color: #ffffff; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    flex-direction: column;
+}
+
+#title, #ver-dashboard-btn {
+    text-align: center; 
+    margin: 20px 0; 
+}
+
+#ver-dashboard-btn {
+    background-color: #ccc5b9; 
+    color: #252422; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    width: 200px; 
+    text-decoration: none; 
+}
+
+.button {
+    text-align: center; 
+    margin: 20px 0; 
+}
+
+.button {
+    background-color: #ccc5b9; 
+    color: #252422; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    width: 200px; 
+    text-decoration: none; 
+}
+
+.updateButton{
+    text-align: center; 
+    margin: 20px 0; 
+}
+
+.updateButton {
+    background-color: #27ae60; 
+    color: #252422; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    width: 200px; 
+    text-decoration: none; 
+}
+
+.triggerButton{
+    text-align: center; 
+    margin: 20px 0; 
+}
+
+.triggerButton {
+    background-color: #e67e22; 
+    color: #252422; 
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    width: 200px; 
+    text-decoration: none; 
+}
+
+.discord-logo {
+    width: 50px; 
+    height: auto; 
+}

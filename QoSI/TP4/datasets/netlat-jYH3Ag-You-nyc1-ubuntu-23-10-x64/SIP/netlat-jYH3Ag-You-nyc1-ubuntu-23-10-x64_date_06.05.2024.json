@@ -1,0 +1,92 @@
+[
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714997544431,
+        "recieved_at": 1714997545651,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 1501
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714997606464,
+        "recieved_at": 1714997607708,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 1534
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714997668507,
+        "recieved_at": 1714997669716,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 1483
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714997730572,
+        "recieved_at": 1714997731780,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 1500
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714997792675,
+        "recieved_at": 1714997793886,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 1499
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714998892210,
+        "recieved_at": 1714998919682,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 27764
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714998954302,
+        "recieved_at": 1714999010430,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 56420
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714999016341,
+        "recieved_at": 1714999103406,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 87353
+    },
+    {
+        "from_": "netlat-jYH3Ag-You-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714999078320,
+        "recieved_at": 1714999190493,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 112432
+    }
+]

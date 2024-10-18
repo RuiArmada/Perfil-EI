@@ -1,0 +1,292 @@
+[
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714588463007,
+        "recieved_at": 1714588471159,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 8440
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714588532473,
+        "recieved_at": 1714588534748,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 2559
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714588600888,
+        "recieved_at": 1714588612200,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 11585
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714588681499,
+        "recieved_at": 1714588684537,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 3319
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714588751030,
+        "recieved_at": 1714588753727,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 2978
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714588822737,
+        "recieved_at": 1714588831292,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 8837
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714588896289,
+        "recieved_at": 1714588900190,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 4167
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714588964989,
+        "recieved_at": 1714588967207,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 2499
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589037077,
+        "recieved_at": 1714589044916,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 8127
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589107182,
+        "recieved_at": 1714589110404,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 3500
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589174694,
+        "recieved_at": 1714589177491,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 3083
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589245350,
+        "recieved_at": 1714589257459,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 12390
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589313072,
+        "recieved_at": 1714589319720,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 6921
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589384563,
+        "recieved_at": 1714589399332,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 15048
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589454419,
+        "recieved_at": 1714589462102,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 7969
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589530830,
+        "recieved_at": 1714589533924,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 3380
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589598772,
+        "recieved_at": 1714589601062,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 2573
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589669777,
+        "recieved_at": 1714589677870,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 8363
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589739990,
+        "recieved_at": 1714589742696,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 2997
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589809551,
+        "recieved_at": 1714589813924,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 4659
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589880268,
+        "recieved_at": 1714589888361,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 8372
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589949948,
+        "recieved_at": 1714589961569,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 11910
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714590020363,
+        "recieved_at": 1714590027759,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 7682
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714590090834,
+        "recieved_at": 1714590093102,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 2549
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714590168344,
+        "recieved_at": 1714590180427,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 12362
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714590239663,
+        "recieved_at": 1714590245412,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 6033
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714590305392,
+        "recieved_at": 1714590308628,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 3506
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714590376265,
+        "recieved_at": 1714590378198,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 2215
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714590448295,
+        "recieved_at": 1714590454385,
+        "type_": "RTP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 6371
+    }
+]

@@ -1,0 +1,9 @@
+Flask==3.0.3
+pandas==2.2.2
+plotly==5.20.0
+discord.py==2.3.2
+requests==2.31.0
+scapy==2.5.0
+pythonping==1.1.4
+Pyyaml==6.0.1
+pynacl==1.5.0

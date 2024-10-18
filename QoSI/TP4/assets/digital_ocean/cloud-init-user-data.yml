@@ -1,0 +1,13 @@
+#cloud-config
+
+runcmd:
+  - apt-get update
+  - apt-get upgrade -y
+  - apt-get install -y git python3-venv python3-pip
+  - |
+    git clone https://github.com/MayorX500/disQoSi.git /netlat
+    cd /netlat
+    python3 -m venv .venv
+    source .venv/bin/activate
+    pip install -r requirements.txt
+    python3 netlat

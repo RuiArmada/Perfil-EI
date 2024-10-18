@@ -1,0 +1,17 @@
+{
+  "regions": [
+    "nyc1",
+    "sfo1",
+    "ams3",
+    "sgp1",
+    "lon1",
+    "fra1",
+    "tor1",
+    "blr1",
+    "syd1"
+  ],
+  "size": "s-2vcpu-2gb",
+  "image": "ubuntu-23-10-x64",
+  "ssh-keys": ["41602828"],
+  "user-data": "assets/digital_ocean/user-data.sh"
+}

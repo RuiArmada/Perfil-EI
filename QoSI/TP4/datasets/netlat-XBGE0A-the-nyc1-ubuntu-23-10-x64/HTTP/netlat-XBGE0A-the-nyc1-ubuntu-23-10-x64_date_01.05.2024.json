@@ -1,0 +1,32 @@
+[
+    {
+        "from_": "netlat-XBGE0A-the-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714588267000,
+        "recieved_at": 1714588268326,
+        "type_": "HTTP",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 1623
+    },
+    {
+        "from_": "netlat-XBGE0A-the-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714588329073,
+        "recieved_at": 1714588330389,
+        "type_": "HTTP",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 1606
+    },
+    {
+        "from_": "netlat-XBGE0A-the-nyc1-ubuntu-23-10-x64",
+        "sent_at": 1714588391122,
+        "recieved_at": 1714588392427,
+        "type_": "HTTP",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 1595
+    }
+]

@@ -1,0 +1,1712 @@
+[
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714997774097,
+        "recieved_at": 1714997778160,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4370
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714997838934,
+        "recieved_at": 1714997840829,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2183
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714997862926,
+        "recieved_at": 1714997865156,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2497
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714997931176,
+        "recieved_at": 1714997938292,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7396
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714997950508,
+        "recieved_at": 1714997956147,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5919
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714998006129,
+        "recieved_at": 1714998011107,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5260
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714998024499,
+        "recieved_at": 1714998026002,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 1796
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714998084669,
+        "recieved_at": 1714998086125,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 1719
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714998100523,
+        "recieved_at": 1714998102425,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2190
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714998175717,
+        "recieved_at": 1714998182988,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7551
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714998826431,
+        "recieved_at": 1714998838675,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 12514
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714998870773,
+        "recieved_at": 1714998891836,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 21349
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714998924570,
+        "recieved_at": 1714998972864,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 48590
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714998958317,
+        "recieved_at": 1714999016453,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 58426
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714998998218,
+        "recieved_at": 1714999075803,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 77864
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999029499,
+        "recieved_at": 1714999128991,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 99776
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999074815,
+        "recieved_at": 1714999182561,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 108030
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999101459,
+        "recieved_at": 1714999247702,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 146535
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999152748,
+        "recieved_at": 1714999307112,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 154648
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999186298,
+        "recieved_at": 1714999350596,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 164580
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999234098,
+        "recieved_at": 1714999419517,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 185701
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999267134,
+        "recieved_at": 1714999455238,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 188391
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999306057,
+        "recieved_at": 1714999514502,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 208731
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999342974,
+        "recieved_at": 1714999591434,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248718
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999380285,
+        "recieved_at": 1714999621425,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 241418
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999418348,
+        "recieved_at": 1714999684777,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 266716
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999450814,
+        "recieved_at": 1714999702567,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252038
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999495913,
+        "recieved_at": 1714999767951,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 272322
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999532151,
+        "recieved_at": 1714999791592,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 259722
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999572128,
+        "recieved_at": 1714999838945,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 267099
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999615473,
+        "recieved_at": 1714999862677,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247492
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999646854,
+        "recieved_at": 1714999909879,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 263292
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999704761,
+        "recieved_at": 1714999968982,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264511
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999720082,
+        "recieved_at": 1714999992742,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 272947
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999785223,
+        "recieved_at": 1715000040220,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 255281
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999789547,
+        "recieved_at": 1715000044184,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254908
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999859199,
+        "recieved_at": 1715000111057,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252143
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999865691,
+        "recieved_at": 1715000134544,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 269119
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714999950543,
+        "recieved_at": 1715000217318,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 267051
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000022995,
+        "recieved_at": 1715000276496,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 253776
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000248475,
+        "recieved_at": 1715000513795,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265602
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000318157,
+        "recieved_at": 1715000591233,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 273368
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000390433,
+        "recieved_at": 1715000644648,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254494
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000411685,
+        "recieved_at": 1715000680124,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 268723
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000464592,
+        "recieved_at": 1715000721499,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257193
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000480766,
+        "recieved_at": 1715000745493,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265020
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000542783,
+        "recieved_at": 1715000798617,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256090
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000566039,
+        "recieved_at": 1715000833948,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 268196
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000626157,
+        "recieved_at": 1715000883295,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257400
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000639106,
+        "recieved_at": 1715000889189,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 250372
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000699042,
+        "recieved_at": 1715000934284,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 235521
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000717839,
+        "recieved_at": 1715000975479,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257933
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000773518,
+        "recieved_at": 1715001041174,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 267943
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000791794,
+        "recieved_at": 1715001064816,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 273285
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000867379,
+        "recieved_at": 1715001137614,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 270497
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000932291,
+        "recieved_at": 1715001180963,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248966
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715000937760,
+        "recieved_at": 1715001186916,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249440
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715001076315,
+        "recieved_at": 1715001342942,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 266911
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715001161891,
+        "recieved_at": 1715001426087,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264477
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715001191992,
+        "recieved_at": 1715001437974,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246275
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715001242423,
+        "recieved_at": 1715001507269,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265126
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715001265853,
+        "recieved_at": 1715001526828,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 261263
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715001403701,
+        "recieved_at": 1715001667722,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264306
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715001495637,
+        "recieved_at": 1715001760565,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265194
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715001575181,
+        "recieved_at": 1715001839917,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265007
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715001658767,
+        "recieved_at": 1715001922714,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264237
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715001666811,
+        "recieved_at": 1715001924693,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 258172
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715001738952,
+        "recieved_at": 1715001999819,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 261144
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715001744336,
+        "recieved_at": 1715002009708,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265663
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715001816331,
+        "recieved_at": 1715002076991,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260941
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715001888937,
+        "recieved_at": 1715002138190,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249539
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715001898130,
+        "recieved_at": 1715002161928,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264080
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715001961688,
+        "recieved_at": 1715002245020,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 283613
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715001978834,
+        "recieved_at": 1715002250936,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 272386
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002033596,
+        "recieved_at": 1715002298493,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265182
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002060722,
+        "recieved_at": 1715002322945,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 262520
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002102371,
+        "recieved_at": 1715002346766,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 244677
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002132346,
+        "recieved_at": 1715002370434,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 238367
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002185024,
+        "recieved_at": 1715002439617,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254858
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002202313,
+        "recieved_at": 1715002471776,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 269744
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002278050,
+        "recieved_at": 1715002562546,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 284815
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002286169,
+        "recieved_at": 1715002574256,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 288393
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002359862,
+        "recieved_at": 1715002616265,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256681
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002363155,
+        "recieved_at": 1715002634109,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 271243
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002437417,
+        "recieved_at": 1715002693335,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256208
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002446017,
+        "recieved_at": 1715002722820,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 277090
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002531774,
+        "recieved_at": 1715002794270,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 262779
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002542294,
+        "recieved_at": 1715002806035,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264025
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002610075,
+        "recieved_at": 1715002859492,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249699
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002616705,
+        "recieved_at": 1715002865386,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248965
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002694785,
+        "recieved_at": 1715002960428,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265924
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002697634,
+        "recieved_at": 1715002962419,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265070
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002800330,
+        "recieved_at": 1715003063126,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 263083
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002801185,
+        "recieved_at": 1715003065098,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264181
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002878942,
+        "recieved_at": 1715003147943,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 269288
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002877932,
+        "recieved_at": 1715003149907,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 272263
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002956033,
+        "recieved_at": 1715003198763,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 243006
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715002962557,
+        "recieved_at": 1715003207372,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 245104
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003043322,
+        "recieved_at": 1715003288053,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 245024
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003043504,
+        "recieved_at": 1715003291943,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248700
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003118861,
+        "recieved_at": 1715003399195,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 280617
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003122461,
+        "recieved_at": 1715003409024,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 286850
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003189838,
+        "recieved_at": 1715003444459,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 254909
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003210067,
+        "recieved_at": 1715003456339,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246566
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003270475,
+        "recieved_at": 1715003519777,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249567
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003289120,
+        "recieved_at": 1715003537507,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248675
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003396759,
+        "recieved_at": 1715003675835,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 279361
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003472978,
+        "recieved_at": 1715003722738,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 250047
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003522763,
+        "recieved_at": 1715003779119,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256636
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003547382,
+        "recieved_at": 1715003814480,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 267386
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003606430,
+        "recieved_at": 1715003873435,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 267292
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003623842,
+        "recieved_at": 1715003891185,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 267595
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003682027,
+        "recieved_at": 1715003930580,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248828
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003694491,
+        "recieved_at": 1715003953883,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 259657
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003765413,
+        "recieved_at": 1715004020630,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 255481
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003777933,
+        "recieved_at": 1715004030356,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252689
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003853766,
+        "recieved_at": 1715004116672,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 263192
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003935173,
+        "recieved_at": 1715004181259,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246365
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715003934904,
+        "recieved_at": 1715004183162,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248552
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004026299,
+        "recieved_at": 1715004274765,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248746
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004108886,
+        "recieved_at": 1715004349614,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 240997
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004140020,
+        "recieved_at": 1715004372806,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 233062
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004184751,
+        "recieved_at": 1715004431841,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247375
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004225667,
+        "recieved_at": 1715004496115,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 270719
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004261344,
+        "recieved_at": 1715004507575,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246506
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004292004,
+        "recieved_at": 1715004560409,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 268682
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004397185,
+        "recieved_at": 1715004645489,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 248557
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004428227,
+        "recieved_at": 1715004674320,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246344
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004483068,
+        "recieved_at": 1715004739269,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256481
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004509088,
+        "recieved_at": 1715004752647,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 243816
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004555149,
+        "recieved_at": 1715004816843,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 261977
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004587562,
+        "recieved_at": 1715004832673,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 245394
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004633578,
+        "recieved_at": 1715004874148,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 240827
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004671025,
+        "recieved_at": 1715004921279,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 250547
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004714803,
+        "recieved_at": 1715004980598,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 266059
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004751812,
+        "recieved_at": 1715004998152,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246618
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004790865,
+        "recieved_at": 1715005039693,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249110
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004881570,
+        "recieved_at": 1715005124252,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 242965
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715004897694,
+        "recieved_at": 1715005153833,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256429
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715005066956,
+        "recieved_at": 1715005324583,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 257937
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715005148710,
+        "recieved_at": 1715005395555,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 247134
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715005236997,
+        "recieved_at": 1715005486288,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249571
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715005310458,
+        "recieved_at": 1715005567188,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256998
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715005382400,
+        "recieved_at": 1715005643750,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 261633
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715005468622,
+        "recieved_at": 1715005720549,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252213
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715005552351,
+        "recieved_at": 1715005810623,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 258552
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715005626909,
+        "recieved_at": 1715005893242,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 266613
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715005704545,
+        "recieved_at": 1715005946517,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 242255
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715005784031,
+        "recieved_at": 1715006033071,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249331
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715005863345,
+        "recieved_at": 1715006129388,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 266326
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715005935716,
+        "recieved_at": 1715006200086,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 264653
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715006011507,
+        "recieved_at": 1715006247503,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 236257
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715006093330,
+        "recieved_at": 1715006336091,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 243033
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715006173912,
+        "recieved_at": 1715006444985,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 271340
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715006272472,
+        "recieved_at": 1715006521934,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249745
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715006346706,
+        "recieved_at": 1715006602941,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256518
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715006420812,
+        "recieved_at": 1715006681789,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 261263
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715006510409,
+        "recieved_at": 1715006768428,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 258306
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715006594900,
+        "recieved_at": 1715006857097,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 262477
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715006711081,
+        "recieved_at": 1715006963737,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 252946
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715006781052,
+        "recieved_at": 1715007040643,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 259875
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715006856254,
+        "recieved_at": 1715007117747,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 261770
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715006941384,
+        "recieved_at": 1715007182668,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 241584
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715007020150,
+        "recieved_at": 1715007269713,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 249839
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715007097579,
+        "recieved_at": 1715007366510,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 269227
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715007195540,
+        "recieved_at": 1715007441445,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 246195
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715007283618,
+        "recieved_at": 1715007548439,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 265105
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715007386824,
+        "recieved_at": 1715007647099,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 260553
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715007461589,
+        "recieved_at": 1715007718048,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 256752
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715007536039,
+        "recieved_at": 1715007779211,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 243484
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1715007612859,
+        "recieved_at": 1715007905112,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 292590
+    }
+]

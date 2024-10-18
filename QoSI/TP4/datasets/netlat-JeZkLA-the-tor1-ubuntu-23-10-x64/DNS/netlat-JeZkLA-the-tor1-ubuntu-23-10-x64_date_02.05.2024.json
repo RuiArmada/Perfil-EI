@@ -1,0 +1,1362 @@
+[
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714608005348,
+        "recieved_at": 1714608007992,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2926
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714608067765,
+        "recieved_at": 1714608070510,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3001
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714608130154,
+        "recieved_at": 1714608134982,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5108
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714608192582,
+        "recieved_at": 1714608198146,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5852
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714608254958,
+        "recieved_at": 1714608257646,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2972
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714608317269,
+        "recieved_at": 1714608319981,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2999
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714608379628,
+        "recieved_at": 1714608382357,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3014
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714608441990,
+        "recieved_at": 1714608444711,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3002
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714608504404,
+        "recieved_at": 1714608507131,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3008
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714608566833,
+        "recieved_at": 1714608569547,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2984
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714608629260,
+        "recieved_at": 1714608631957,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2980
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714608691607,
+        "recieved_at": 1714608695671,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4353
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714608753960,
+        "recieved_at": 1714608760092,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6401
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714608816307,
+        "recieved_at": 1714608822381,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6362
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714608878688,
+        "recieved_at": 1714608887260,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8861
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714608941067,
+        "recieved_at": 1714608947966,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7181
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714609003563,
+        "recieved_at": 1714609008886,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5608
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714609065975,
+        "recieved_at": 1714609069700,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4006
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714609128301,
+        "recieved_at": 1714609131049,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3030
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714609190649,
+        "recieved_at": 1714609193377,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3019
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714609253019,
+        "recieved_at": 1714609255736,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3003
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714609315397,
+        "recieved_at": 1714609318137,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3029
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714609377804,
+        "recieved_at": 1714609380537,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3012
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714609440275,
+        "recieved_at": 1714609442933,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2914
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714609502646,
+        "recieved_at": 1714609506541,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4179
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714609565010,
+        "recieved_at": 1714609571891,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7159
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714609627431,
+        "recieved_at": 1714609630065,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2916
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714609689888,
+        "recieved_at": 1714609692579,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2969
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714609752238,
+        "recieved_at": 1714609754950,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2993
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714609814669,
+        "recieved_at": 1714609817444,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3061
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714609877084,
+        "recieved_at": 1714609879822,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3029
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714609939592,
+        "recieved_at": 1714609947871,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8561
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714610002004,
+        "recieved_at": 1714610008732,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7016
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714610064431,
+        "recieved_at": 1714610069743,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5593
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714610126820,
+        "recieved_at": 1714610130628,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4096
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714610189221,
+        "recieved_at": 1714610191948,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3008
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714610251684,
+        "recieved_at": 1714610254292,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2890
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714610314068,
+        "recieved_at": 1714610317173,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3386
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714610376432,
+        "recieved_at": 1714610379159,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3008
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714610438708,
+        "recieved_at": 1714610441494,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3050
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714610501066,
+        "recieved_at": 1714610503810,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3028
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714610563532,
+        "recieved_at": 1714610566255,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3011
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714610625916,
+        "recieved_at": 1714610629862,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4227
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714610688327,
+        "recieved_at": 1714610691921,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3873
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714610750701,
+        "recieved_at": 1714610756257,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5840
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714610813092,
+        "recieved_at": 1714610818709,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5902
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714610875472,
+        "recieved_at": 1714610879009,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3803
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714610937870,
+        "recieved_at": 1714610944517,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6937
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714611000212,
+        "recieved_at": 1714611002953,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3006
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714611062584,
+        "recieved_at": 1714611065356,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3060
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714611124999,
+        "recieved_at": 1714611127739,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3031
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714611187324,
+        "recieved_at": 1714611190017,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2971
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714611249593,
+        "recieved_at": 1714611252302,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2993
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714611312012,
+        "recieved_at": 1714611314769,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3026
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714611374502,
+        "recieved_at": 1714611382485,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8264
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714611436934,
+        "recieved_at": 1714611443345,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6694
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714611499288,
+        "recieved_at": 1714611504188,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5185
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714611561687,
+        "recieved_at": 1714611564906,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3501
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714611624048,
+        "recieved_at": 1714611626800,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3033
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714611686428,
+        "recieved_at": 1714611689197,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3053
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714611748823,
+        "recieved_at": 1714611751539,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2980
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714611811271,
+        "recieved_at": 1714611814037,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3055
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714611873685,
+        "recieved_at": 1714611876416,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3016
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714611936146,
+        "recieved_at": 1714611938878,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3026
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714611998454,
+        "recieved_at": 1714612001319,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3127
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714612060827,
+        "recieved_at": 1714612063547,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3000
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714612123194,
+        "recieved_at": 1714612125913,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3000
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714612185567,
+        "recieved_at": 1714612190719,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5419
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714612247948,
+        "recieved_at": 1714612252394,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4733
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714612310350,
+        "recieved_at": 1714612312979,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2924
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714612372797,
+        "recieved_at": 1714612375490,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2971
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714612435285,
+        "recieved_at": 1714612437941,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2937
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714612497674,
+        "recieved_at": 1714612500489,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3096
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714612560078,
+        "recieved_at": 1714612567882,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8084
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714612622533,
+        "recieved_at": 1714612628734,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6484
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714612685007,
+        "recieved_at": 1714612692312,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7573
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714612747445,
+        "recieved_at": 1714612756502,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 9327
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714612809855,
+        "recieved_at": 1714612817641,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8077
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714612872226,
+        "recieved_at": 1714612879327,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7384
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714612934655,
+        "recieved_at": 1714612939407,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5038
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714612997111,
+        "recieved_at": 1714612999851,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3027
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714613059549,
+        "recieved_at": 1714613062318,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3055
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714613121930,
+        "recieved_at": 1714613124598,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2957
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714613184330,
+        "recieved_at": 1714613187025,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2974
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714613246626,
+        "recieved_at": 1714613249358,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3021
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714613309007,
+        "recieved_at": 1714613311777,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3035
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714613371441,
+        "recieved_at": 1714613374149,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2995
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714613433823,
+        "recieved_at": 1714613436554,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3022
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714613496143,
+        "recieved_at": 1714613498843,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2963
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714613558531,
+        "recieved_at": 1714613562577,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4312
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714613620944,
+        "recieved_at": 1714613627790,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7126
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714613683356,
+        "recieved_at": 1714613686084,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3008
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714613745781,
+        "recieved_at": 1714613748523,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3012
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714613808200,
+        "recieved_at": 1714613816875,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8944
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714613870640,
+        "recieved_at": 1714613877855,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7501
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714613933009,
+        "recieved_at": 1714613938691,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5966
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714613995434,
+        "recieved_at": 1714613999601,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4455
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714614057825,
+        "recieved_at": 1714614060600,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3046
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714614120315,
+        "recieved_at": 1714614123078,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3047
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714614182788,
+        "recieved_at": 1714614185528,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3021
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714614245182,
+        "recieved_at": 1714614247875,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2972
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714614307680,
+        "recieved_at": 1714614310413,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3010
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714614370060,
+        "recieved_at": 1714614372795,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3008
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714614432545,
+        "recieved_at": 1714614435264,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3011
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714614494961,
+        "recieved_at": 1714614497683,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3007
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714614557335,
+        "recieved_at": 1714614560099,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3035
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714614619896,
+        "recieved_at": 1714614622548,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2933
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714614682312,
+        "recieved_at": 1714614685449,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3416
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714614744714,
+        "recieved_at": 1714614751459,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7034
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714614807300,
+        "recieved_at": 1714614815756,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8724
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714614869723,
+        "recieved_at": 1714614879586,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 10150
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714614933042,
+        "recieved_at": 1714614938486,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5707
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714614995397,
+        "recieved_at": 1714615002915,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7785
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714615057830,
+        "recieved_at": 1714615066166,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8617
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714615120226,
+        "recieved_at": 1714615127197,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7233
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714615182630,
+        "recieved_at": 1714615192174,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 9809
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714615245104,
+        "recieved_at": 1714615249021,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4197
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714615307602,
+        "recieved_at": 1714615310359,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3039
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714615369938,
+        "recieved_at": 1714615372658,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2998
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714615432398,
+        "recieved_at": 1714615435101,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2984
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714615494823,
+        "recieved_at": 1714615497522,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2983
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714615557321,
+        "recieved_at": 1714615560014,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2965
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714615619855,
+        "recieved_at": 1714615622554,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2987
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714615682415,
+        "recieved_at": 1714615685155,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3022
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714615744840,
+        "recieved_at": 1714615747541,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2974
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714615807230,
+        "recieved_at": 1714615809992,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3044
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714615869679,
+        "recieved_at": 1714615872389,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2991
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714615932042,
+        "recieved_at": 1714615934798,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3024
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714615994458,
+        "recieved_at": 1714615997224,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3026
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714616056826,
+        "recieved_at": 1714616059496,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 2937
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714616119192,
+        "recieved_at": 1714616125189,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 6288
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714616181539,
+        "recieved_at": 1714616184299,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 3027
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714616243970,
+        "recieved_at": 1714616252576,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 8889
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714616306326,
+        "recieved_at": 1714616313420,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 7372
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714616368731,
+        "recieved_at": 1714616374349,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 5898
+    },
+    {
+        "from_": "netlat-JeZkLA-the-tor1-ubuntu-23-10-x64",
+        "sent_at": 1714616431079,
+        "recieved_at": 1714616435147,
+        "type_": "DNS",
+        "tos_changed": false,
+        "recieved_tos": 0,
+        "send_tos": 0,
+        "time_it_took": 4327
+    }
+]

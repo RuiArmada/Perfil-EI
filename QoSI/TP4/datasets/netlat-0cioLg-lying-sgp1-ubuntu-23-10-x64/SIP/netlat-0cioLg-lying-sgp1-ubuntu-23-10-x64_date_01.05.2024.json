@@ -1,0 +1,292 @@
+[
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714588459802,
+        "recieved_at": 1714588461154,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 1632
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714588528156,
+        "recieved_at": 1714588530823,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 2958
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714588597669,
+        "recieved_at": 1714588600395,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 3013
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714588675245,
+        "recieved_at": 1714588680639,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 5672
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714588748399,
+        "recieved_at": 1714588749766,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 1655
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714588816537,
+        "recieved_at": 1714588823470,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 7216
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714588891690,
+        "recieved_at": 1714588896274,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 4868
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714588961033,
+        "recieved_at": 1714588962434,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 1677
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589033329,
+        "recieved_at": 1714589035060,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 2014
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589105102,
+        "recieved_at": 1714589106486,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 1667
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589172079,
+        "recieved_at": 1714589173489,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 1696
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589239242,
+        "recieved_at": 1714589243587,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 4625
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589310964,
+        "recieved_at": 1714589315738,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 5045
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589382440,
+        "recieved_at": 1714589391437,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 9289
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589452278,
+        "recieved_at": 1714589458117,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 6125
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589527150,
+        "recieved_at": 1714589530010,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 3141
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589595383,
+        "recieved_at": 1714589597100,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 1998
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589665216,
+        "recieved_at": 1714589666616,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 1661
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589737421,
+        "recieved_at": 1714589738798,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 1660
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589804843,
+        "recieved_at": 1714589810002,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 5443
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589877087,
+        "recieved_at": 1714589878481,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 1690
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714589944174,
+        "recieved_at": 1714589947854,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 3962
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714590013576,
+        "recieved_at": 1714590023823,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 10544
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714590085832,
+        "recieved_at": 1714590088656,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 3120
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714590165810,
+        "recieved_at": 1714590170600,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 5082
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714590235129,
+        "recieved_at": 1714590241522,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 6672
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714590303298,
+        "recieved_at": 1714590304667,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 1648
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714590371496,
+        "recieved_at": 1714590374249,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 3035
+    },
+    {
+        "from_": "netlat-0cioLg-lying-sgp1-ubuntu-23-10-x64",
+        "sent_at": 1714590445123,
+        "recieved_at": 1714590450434,
+        "type_": "SIP",
+        "tos_changed": true,
+        "recieved_tos": 0,
+        "send_tos": 184,
+        "time_it_took": 5598
+    }
+]

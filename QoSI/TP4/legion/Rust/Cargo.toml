@@ -1,0 +1,12 @@
+[package]
+name = "discord_bot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serenity = { version = "0.11.7", default-features = false, features = ["client", "gateway", "http", "rustls_backend", "standard_framework", "voice"] }
+reqwest = { version = "0.11", features = ["json"] }
+tokio = { version = "1", features = ["full"] }
+hostname = "0.3"
+serde = { version = "1.0", features = ["derive"] }
+serde_yaml = "0.8"

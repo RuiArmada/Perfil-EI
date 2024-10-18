@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network Latency Dashboard</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <style>
+        .loader-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
+        }
+
+        .loader {
+            border: 8px solid rgba(255, 255, 255, 0.3);
+            border-top: 8px solid #3498db;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <h1>Network Latency Dashboard</h1>
+    
+    <div id="graph" style="width: 80%;"></div>
+    <div class="buttons">
+        <a href="/" class="button">Voltar ao Menu Inicial</a>
+        <button id="updateButton" class="updateButton">Update</button>
+        <button id="triggerButton" class="triggerButton">Trigger</button>
+    </div>
+    <div id="loaderContainer" class="loader-container">
+        <div class="loader"></div>
+    </div>
+    <script>
+        var layout = {
+            title: 'Latency by Network',
+            xaxis: {
+                title: 'Date',
+                titlefont: {
+                    family: 'Arial, sans-serif',
+                    size: 12,
+                    color: '#ccc5b9'
+                }
+            },
+            yaxis: {
+                title: 'Latency',
+                titlefont: {
+                    family: 'Arial, sans-serif',
+                    size: 12,
+                    color: '#ccc5b9'
+                }
+            },
+            plot_bgcolor: '#252422', 
+            paper_bgcolor: '#252422', 
+            font: {
+                family: 'Arial, sans-serif',
+                size: 14,
+                color: '#ccc5b9'
+            }
+        };
+
+        function showLoader() {
+            document.getElementById('loaderContainer').style.display = 'flex';
+        }
+
+        function hideLoader() {
+            document.getElementById('loaderContainer').style.display = 'none';
+        }
+
+        function updateGraph() {
+            showLoader();
+
+            fetch('/update_graph_latency_http', {
+                method: 'POST',
+            })
+            .then(response => response.json())
+            .then(newData => {
+                hideLoader();
+                for (var i = 0; i < newData.length; i++) {
+                    newData[i].mode = 'lines+markers';
+                }
+                Plotly.react('graph', newData, layout);
+            })
+            .catch(error => {
+                console.error('Erro ao atualizar o gráfico:', error);
+                hideLoader();
+            });
+        }
+
+        document.getElementById('updateButton').addEventListener('click', updateGraph);
+
+        // Função para acionar a tarefa quando o botão "trigger" é clicado
+        function triggerTask() {
+            fetch('/trigger_task', {
+                method: 'POST',
+            })
+            .then(response => {
+                if (response.ok) {
+                    console.log('Tarefa acionada com sucesso!');
+                } else {
+                    console.error('Erro ao acionar a tarefa:', response.status);
+                }
+            })
+            .catch(error => {
+                console.error('Erro ao acionar a tarefa:', error);
+            });
+        }
+
+        document.getElementById('triggerButton').addEventListener('click', triggerTask);
+
+        fetch('/update_graph_latency_http', {
+            method: 'POST',
+        })
+        .then(response => response.json())
+        .then(initialData => {
+            for (var i = 0; i < initialData.length; i++) {
+                initialData[i].mode = 'lines+markers';
+            }
+            Plotly.newPlot('graph', initialData, layout);
+        })
+        .catch(error => {
+            console.error('Erro ao carregar o gráfico inicial:', error);
+        });
+    </script>
+</body>
+</html>

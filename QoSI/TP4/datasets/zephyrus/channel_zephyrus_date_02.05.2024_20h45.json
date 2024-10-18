@@ -1,0 +1,37 @@
+[
+    {
+        "hostname": "zephyrus",
+        "latency": 147.6264,
+        "public_ip": "92.250.97.136",
+        "lang": "go",
+        "timestamp": 1714601608
+    },
+    {
+        "hostname": "zephyrus",
+        "latency": 353,
+        "public_ip": "92.250.97.136",
+        "lang": "nodejs",
+        "timestamp": 1714601622953
+    },
+    {
+        "hostname": "zephyrus",
+        "latency": 150.0,
+        "public_ip": "92.250.97.136",
+        "lang": "rust",
+        "timestamp": 1714601629708
+    },
+    {
+        "hostname": "zephyrus",
+        "timestamp": 1714601635000,
+        "public_ip": "92.250.97.136",
+        "latency": "4000.00",
+        "lang": "luvit"
+    },
+    {
+        "hostname": "zephyrus",
+        "latency": "1000.00",
+        "public_ip": "92.250.97.136",
+        "lang": "ruby",
+        "timestamp": 1714601641000
+    }
+]
